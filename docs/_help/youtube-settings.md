@@ -1,4 +1,5 @@
 ---
+layout: help
 title: "YouTube Settings"
 # description:
 # subtitle: 
