@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section class="single">
+
+    <div class="wrap">
+
+        {% unless page.hidetitle %}
+        <h1>{{ page.title }}</h1>
+        <p class="subtitle">{{ page.subtitle }}</p>
+        {% endunless %}
+
+        {{ page.content }}
+
+        {% include disqus.html %}
+    </div>
+
+</section>

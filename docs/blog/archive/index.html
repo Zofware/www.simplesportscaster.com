@@ -1,0 +1,26 @@
+---
+layout: default
+title: Blog Archive
+description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
+featured_image: /images/social.jpg
+---
+
+<section class="single">
+
+    <div class="wrap">
+
+        <h1>Blog Archive</h1>
+
+        <ul>
+            {% for post in site.posts %}
+            <li>
+                <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+                &raquo;
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+
+    </div>
+
+</section>
