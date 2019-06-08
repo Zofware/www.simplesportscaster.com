@@ -58,3 +58,4 @@ After you've configured everything above, you need to turn it on.
 6. Flip the Enable TeamSnap Live switch to the On position.
 7. Type a test message into the Send Message Now box and tap the send button. You should see your message appear in TeamSnap Live within a few seconds. If not, then something isn't configured correctly. (Or perhaps this guide needs improvement!)
 8. During the game, as you change periods, start and stop the clock, and record goals in SimpleSportsCaster, the TeamSnap live scoreboard should update to match within a few seconds.
+
