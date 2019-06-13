@@ -10,7 +10,7 @@ hidetitle: true
 With SimpleSportsCaster you can live stream and record your team's games with a scoreboard that's customizable and easy to operate.
 
 <!-- need a screenshot here -->
-<div align="center" style="width:1512px;" class="gallery" data-columns="3">
+<div align="center" class="gallery" data-columns="3">
     <img src="">
     <img src="/images/InGame1.png">
     <img src="">
