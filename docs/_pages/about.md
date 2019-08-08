@@ -65,3 +65,35 @@ SimpleSportsCaster is currently in beta testing. Everyone is encouraged to test 
 The free version of SimpleSportsCaster puts a watermark over the upper-right corner of your video. While SimpleSportsCaster is in public beta testing, you can remove the watermark for free by clicking it and signing into the Microsoft Store to unlock the full version. The unlock will last for 30 days at which point you'll have to unlock again.  
 
 In the future, SimpleSportsCaster will use a subscription model to unlock the full version. Pricing to be determined.
+
+## Version History
+
+### Version 1.1.126.0 (8 August 2019)
+* Synchronize keyboard shortcuts between all devices sharing the same Microsoft Account.
+* Expose video encoder profile setting for recording and streaming so users can fine-tune the balance between video quality and power consumption.
+* Prevent accidental deletion of database records that are referenced by other records. For example, you can no longer delete a logo image that is current being used by one or more liveries.
+* Disable wireless display support to reduce video preview startup time.
+
+### Version 1.1.125.0 (1 August 2019)
+* Automatically decrease streaming encoder bitrate if network bandwidth is too low
+* Handle YouTube stream key resets more gracefully
+* Disable streaming switch if capture devices aren't selected
+* Fix crash when quitting the app while recording or streaming
+
+### Version 1.1.122.0 (24 July 2019)
+* Prevent the same team from being both home and away in the same game
+* Improve game clock display update precision
+* Add option to export YouTube video description from game log
+* Set default h264 profile back to Main from High to save power
+
+### Version 1.1.117.0 (19 July 2019)
+* Configurable keyboard shortcuts for buttons and other scoreboard controls on the game screen.
+
+### Version 1.1.116.0 (14 July 2019)
+* Remove the "Subscribe Now!" banner as soon as purchase is complete.
+* Limit the height of team label on scoreboard control panel.
+
+### Version 1.1.115.0 (19 June 2019)
+* Implement in-app purchase (free) to unlock the full version of the app for 30-days during beta testing.
+* Simplified clock and score control.
+* [List of supported video capture devices](https://www.simplesportscaster.com/help/capture-devices).
