@@ -1,7 +1,7 @@
 ---
 layout: help
 title: "YouTube Settings"
-# description:
+description: ""
 # subtitle: 
 featured_image: /images/social.jpg
 permalink: /help/youtube-settings

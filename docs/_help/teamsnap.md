@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Using TeamSnap Live with SimpleSportsCaster
-# description: 
+description: ""
 # subtitle: 
 featured_image: /images/social.jpg
 permalink: /help/teamsnap

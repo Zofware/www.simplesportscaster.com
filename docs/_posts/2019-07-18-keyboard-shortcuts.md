@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Keyboard Shortcuts"
+description: ""
 date: "2019-07-18 23:30:00 -0700"
 author: AdamZofware
 version: 1.0.0

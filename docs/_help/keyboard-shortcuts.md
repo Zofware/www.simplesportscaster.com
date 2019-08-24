@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Keyboard Shortcuts
-# description: 
+description: ""
 # subtitle: 
 featured_image: /images/social.jpg
 permalink: /help/keyboard-shortcuts

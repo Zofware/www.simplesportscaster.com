@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Supported Video Capture Devices
-# description: 
+description: ""
 # subtitle: 
 featured_image: /images/social.jpg
 permalink: /help/capture-devices
