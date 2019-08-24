@@ -91,7 +91,7 @@
 			var thisTarget = $(this).attr('href');
 
 			// If link is external
-			if ( thisTarget.indexOf('http') >= 0 ) {
+			if ( thisTarget.indexOf('http') >= 0 && (new URL(thisTarget)).hostname != window.location.hostname) {
 
 				// Go to the external link
 				window.open(thisTarget, '_blank');
