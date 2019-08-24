@@ -14,7 +14,7 @@ SimpleSportsCaster supports USB Video Class (UVC) web cams and capture devices. 
 
 Please leave a comment at the bottom of this page if you know of other devices that work (or don't work) with SimpleSportsCaster and we will update the table. Thank you! 
 
-Disclaimer: As an Amazon Associate I earn from qualifying purchases via the Amazon links below.
+Note: As an Amazon Associate this web site earns from qualifying purchases.
 
 | Device | Supported? | Notes | Amazon |
 |--------|------------|-------|--------|
