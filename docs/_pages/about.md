@@ -68,6 +68,10 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.129.0 (5 September 2019)
+* New app logo.
+* Add .webp, .bmp, .dib, .gif, .heic, .tif, and .tiff support to the logo picker.
+
 ### Version 1.1.126.0 (8 August 2019)
 * Synchronize keyboard shortcuts between all devices sharing the same Microsoft Account.
 * Expose video encoder profile setting for recording and streaming so users can fine-tune the balance between video quality and power consumption.
