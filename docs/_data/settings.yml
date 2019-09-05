@@ -5,9 +5,9 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  avatar_image: /images/avatar.jpg
-  logo_image: 
-  logo_width: 200
+  avatar_image: 
+  logo_image: /images/logo-banner-with-shadow-1024.png
+  logo_width: 1024
 
 menu_settings:
   menu_items:
