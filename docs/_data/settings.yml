@@ -73,19 +73,19 @@ social_settings:
 color_settings:
   background_color: '#ffffff'          # background color for all pages         white
   background_alt_color: '#f4f5f6'      # contact form background                almost white
-  text_dark_color: '#1C5278'           # title, heading, and link text          darker business card blue
-  text_medium_color: '#266DA0'         # normal body text                       business card blue
-  text_light_color: '#308BCC'          # footer, social icons, dates            lighter business card blue
-  accent_color: '#29894A'              # link underlines and hover highlights   dark green
-  border_color: '#266DA0'              # text entry box border                  business card blue
+  text_dark_color: '#045FA4'           # title, heading, and link text          darker than logo blue
+  text_medium_color: '#000000'         # normal body text                       black
+  text_light_color: '#0482E4'          # footer, social icons, dates            logo blue
+  accent_color: '#0482E4'              # link underlines and hover highlights   logo blue
+  border_color: '#045FA4'              # text entry box border                  darker than logo blue
   overlay_background_color: '#161B21'  # not used                               very dark blue-gray
   overlay_text_color: '#ffffff'        # not used                               white
   error_color: '#D64541'               # ???                                    medium red
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600" rel="stylesheet">'
-  title_font: '"Nunito", sans-serif'
-  body_font: '"Nunito", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=News+Cycle:300,400,400i,600" rel="stylesheet">'
+  title_font: '"News+Cycle", sans-serif'
+  body_font: '"News+Cycle", sans-serif'
   regular_weight: 400
   bold_weight: 600
   site_title:
@@ -168,6 +168,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
+  # unfortunately ajax_loading interferes with Disqus
   ajax_loading: false
   analytics_code: ""
   custom_styles: ""

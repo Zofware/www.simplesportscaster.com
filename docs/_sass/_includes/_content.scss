@@ -6,14 +6,14 @@
 
 .single {
 	margin-top: 0;
-	padding: 40px 0;
+	padding: 20px 0;
 
 	@include mq(tabletp) {
-		padding: 60px 0;
+		padding: 30px 0;
 	}
 
 	@include mq(laptop) {
-		padding: 80px 0;
+		padding: 40px 0;
 	}
 
 	h1 {

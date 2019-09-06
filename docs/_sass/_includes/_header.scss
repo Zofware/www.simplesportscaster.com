@@ -13,11 +13,11 @@
     text-align: center;
 
     @include mq(tabletp) {
-        padding-top: 60px;
+        padding-top: 30px;
     }
 
     @include mq(laptop) {
-        padding-top: 80px;
+        padding-top: 40px;
     }
 }
 
@@ -43,7 +43,7 @@
     display: block;
     margin: 0 auto;
 
-    @include mq(tabletp) {
+    @include mq(laptop) {
         width: $logo-width;
         margin-bottom: 25px;
     }
