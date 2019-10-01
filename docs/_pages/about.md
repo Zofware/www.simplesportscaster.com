@@ -68,10 +68,12 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
-### Version 1.1.136.0 (29 September 2019)
+### Version 1.1.137.0 (30 September 2019)
 * Automatically set the YouTube live stream replay video title and description with game information after the live stream completes.
 * Use external browser for YouTube authentication to meet Google security requirements. You will need to log into YouTube again for any accounts you added previously.
-* Better error handling for lost connection to the camera and out of disk space.
+* Better error handling when the connection to the camera is lost.
+* Warn when disk space is running low while recording.
+* Fix a crash that sometimes happened when creating a new database.
 
 ### Version 1.1.129.0 (5 September 2019)
 * New app logo.
