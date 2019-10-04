@@ -10,16 +10,17 @@ hidetitle: true
 With SimpleSportsCaster you can live stream and record your team's games with a scoreboard that's customizable and easy to operate.
 
 <!-- need a screenshot here -->
-<div align="center" class="gallery" data-columns="3">
+<div align="center" class="gallery" data-columns="4">
     <img src="">
     <img src="/images/InGame1.png">
+    <img src="/images/InGame2.png">
     <img src="">
 </div>
 
 Features:
 * Customize the scoreboard with team colors and logos.
 * Live stream to [YouTube](https://youtube.com) or any other service supporting RTMP.
-* Record high definition video at up to 1080p and 60 frames per second.
+* Record high definition video at up to 1080p at 60 frames per second or 2160p at 30 frames per second.
 * Tag important events during the game so you can quickly find them while reviewing your footage later.
 * Show game information on the bottom third of the screen during pre-game, half time, or after the match.
 * Experimental: Keep your [TeamSnap Live!](https://www.teamsnap.com/teams/features/teamsnap-live) scoreboard in sync with the video scoreboard.
