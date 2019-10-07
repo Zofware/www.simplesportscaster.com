@@ -69,6 +69,10 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.141.0 (7 October 2019)
+* Fix a crash when suspending/resuming while video capture device in use.
+* Show more helpful error messages when streaming fails.
+
 ### Version 1.1.138.0 (30 September 2019)
 * Automatically set the YouTube live stream replay video title and description with game information after the live stream completes.
 * Use external browser for YouTube authentication to meet Google security requirements. You will need to log into YouTube again for any accounts you added previously.
