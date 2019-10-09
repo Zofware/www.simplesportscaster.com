@@ -25,7 +25,7 @@ Features:
 * Show game information on the bottom third of the screen during pre-game, half time, or after the match.
 * Experimental: Keep your [TeamSnap Live!](https://www.teamsnap.com/teams/features/teamsnap-live) scoreboard in sync with the video scoreboard.
 
-SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-us/p/surface-pro-6/8ZCNC665SLQ5) and other Windows 10 devices and is available from the [Microsoft Store](https://www.microsoft.com/store/apps/9NRQMTPGS298).  
+SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-us/p/surface-pro-6/8ZCNC665SLQ5) and other Windows 10 devices and is available from the [Microsoft Store](https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=sscdotcom).  
 
 <br/>
 
