@@ -67,6 +67,12 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.144.0 (17 October 2019)
+* Fix numerous memory leaks, some of which could cause old instances of the game screen to remain active. This could sometimes lead to the scoreboard buttons performing actions more than once when clicked.
+* Fix a bug that would sometimes cause the game clock to go blank when desktop screen scaling wasn't set to 100%.
+* Avoid setting live stream metadata if the stream didn't complete successfully. This should help prevent the metadata from accidentally being applied to the default YouTube broadcast.
+* To help diagnose and fix live stream issues in the future, add more diagnostic logging of stream events, status, and performance.
+
 ### Version 1.1.141.0 (7 October 2019)
 * Fix a crash when suspending/resuming while video capture device in use.
 * Show more helpful error messages when streaming fails.
