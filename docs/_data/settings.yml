@@ -95,9 +95,9 @@ font_settings:
     weight: 600
     letter_spacing: 0
   site_tagline:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
+    small_size: 20
+    medium_size: 22
+    large_size: 24
     weight: 400
     letter_spacing: 0
     line_height: 1.5
