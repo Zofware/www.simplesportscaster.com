@@ -67,8 +67,13 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.147.0 (22 October 2019)
+* Fix an app suspend/resume bug that caused the scoreboard buttons to perform their actions multiple times on a single press.
+* Prevent exported video timestamps from sometimes being negative if they were within 15 seconds of the start of recording or streaming.
+* Support the [blink(1) mk3 USB light](https://amzn.to/2NcOa4r) for use as an on-air indicator.
+
 ### Version 1.1.144.0 (17 October 2019)
-* Fix numerous memory leaks, some of which could cause old instances of the game screen to remain active. This could sometimes lead to the scoreboard buttons performing actions more than once when clicked.
+* Fix numerous memory leaks, some of which could cause old instances of the game screen to remain active.
 * Fix a bug that would sometimes cause the game clock to go blank when desktop screen scaling wasn't set to 100%.
 * Avoid setting live stream metadata if the stream didn't complete successfully. This should help prevent the metadata from accidentally being applied to the default YouTube broadcast.
 * To help diagnose and fix live stream issues in the future, add more diagnostic logging of stream events, status, and performance.
