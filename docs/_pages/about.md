@@ -67,6 +67,10 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.149.0 (4 November 2019)
+* Upgrade to AppCenter 2.5.0 for improved diagnostics and crash reports.
+* Fix a bug that could cause crashes or other instability when switching between the large and small scoreboards (e.g. when switching periods).
+
 ### Version 1.1.147.0 (22 October 2019)
 * Fix an app suspend/resume bug that caused the scoreboard buttons to perform their actions multiple times on a single press.
 * Prevent exported video timestamps from sometimes being negative if they were within 15 seconds of the start of recording or streaming.
