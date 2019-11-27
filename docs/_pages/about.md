@@ -67,6 +67,13 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.161.0 (28 November 2019)
+* Improved live stream bitrate throttling that now works on Intel Quick Sync hardware. This lowers the stream encoding quality as necessary to match network bandwidth when your network connection is slower than you expected. Also add a "lag" metric on the status line that shows how many seconds of video are in the queue waiting to be streamed. The lag will be zero if your network is fast enough but could increase to 10 or more seconds if the network is slow.
+* Fix a bug where the clock set button sometimes wouldn't work.
+* Fix a crash in logging for handled exceptions.
+* Known issue: Video recording and streaming continues when the app is minimized but the scoreboard and game clock don't update.
+* Package updates: AppCenter 2.6.1, Windows Community Toolkit 6.0.0
+
 ### Version 1.1.156.0 (27 November 2019)
 * Request backgroundMediaRecording permission to ensure that recording/streaming continues when minimized.
 * Enable full screen toggle buttons.
