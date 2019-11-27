@@ -67,6 +67,12 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.156.0 (27 November 2019)
+* Request backgroundMediaRecording permission to ensure that recording/streaming continues when minimized.
+* Enable full screen toggle buttons.
+* Newtonsoft.Json 12.0.3
+* ffmpeg 4.2.1
+
 ### Version 1.1.149.0 (4 November 2019)
 * Upgrade to AppCenter 2.5.0 for improved diagnostics and crash reports.
 * Fix a bug that could cause crashes or other instability when switching between the large and small scoreboards (e.g. when switching periods).
