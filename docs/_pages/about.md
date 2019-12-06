@@ -67,6 +67,12 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.164.0 (6 December 2019)
+* Fix a null reference exception that could sometimes happen a few seconds after finishing a recording.
+* Properly set the privacy of automatically created YouTube broadcasts.
+* Package updates: Microsoft.UI.Xaml 2.3.191129002 and Microsoft.Windows.CppWinRT 2.0.191202.6
+* Known issue: The scoreboard and game clock don't redraw while the app is minimized.
+
 ### Version 1.1.163.0 (4 December 2019)
 * Add an option to automatically create a new YouTube broadcast for each game. This allows multiple games to be streamed on the same channel simultaneously. To use this, choose **(Auto)** from the YouTube Broadcast selection drop-down on the video settings page.
 * Known issue: The scoreboard and game clock don't redraw while the app is minimized.
