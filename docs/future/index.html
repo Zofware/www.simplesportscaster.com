@@ -1,0 +1,24 @@
+---
+layout: default
+title: Future Blog Posts
+description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
+featured_image: /images/social.jpg
+---
+
+<section class="single">
+
+    <div class="wrap">
+
+        <h1>Future Blog Posts</h1>
+
+        <ul>
+            {% for topic in site.future %}
+            <li>
+                <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+
+    </div>
+
+</section>
