@@ -14,6 +14,9 @@ collections:
   help:
     output: true
     permalink: /help/:slug
+  future:
+    output: true
+    permalink: /future/:slug
 
 defaults:
   -
