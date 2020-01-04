@@ -2,7 +2,7 @@
 layout: post
 title: "Version 1.1.next.0"
 description: ""
-date: "2019-12-28 00:00:00 -0700"
+date: "2020-01-03 00:00:00 -0700"
 author: AdamZofware
 version: 1.0.6
 comments: true
