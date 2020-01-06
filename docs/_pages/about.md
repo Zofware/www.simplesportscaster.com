@@ -67,6 +67,13 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.175.0 (6 January 2020)
+* Improved keyboard shortcuts.
+* New overlaid video preview mode to maximize the size of the preview window in landscape mode.
+* New countdown clock mode for NCAA college games.
+* Pregame now counts down the time until kickoff.
+* Many other new features and improvements. Details [here](/blog/version-1-1-175-0)
+
 ### Version 1.1.164.0 (6 December 2019)
 * Fix a null reference exception that could sometimes happen a few seconds after finishing a recording.
 * Properly set the privacy of automatically created YouTube broadcasts.
