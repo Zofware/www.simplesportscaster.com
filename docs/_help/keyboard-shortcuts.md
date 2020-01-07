@@ -37,3 +37,9 @@ Next, press the Clear button and press OK.
 
 ![](/assets/help/shortcut4.png) 
 
+## Manage all keyboard shortcuts
+
+Use the Shortcuts tab on the game page to manage all the shortcuts available in SimpleSportsCaster.
+
+![](/assets/help/shortcut5.png)
+
