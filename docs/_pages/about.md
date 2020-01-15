@@ -67,12 +67,20 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.182.0 (14 January 2020)
+* Customizable video watermark. Details [here](/blog/version-1-1-182-0).
+* Support for scalable vector graphics (SVG) files for team, club, and league logos.
+* Still show status text even when the overlaid preview buttons are hidden (can be disabled).
+* Apply light/dark themes more consistently throughout.
+* Remove borders around button groups and add more transparency in overlaid preview mode.
+* Show the friendly name of the I420 pixel format used by Elgato hardware (instead of showing a GUID).
+
 ### Version 1.1.175.0 (6 January 2020)
 * Improved keyboard shortcuts.
 * New overlaid video preview mode to maximize the size of the preview window in landscape mode.
 * New countdown clock mode for NCAA college games.
 * Pregame now counts down the time until kickoff.
-* Many other new features and improvements. Details [here](/blog/version-1-1-175-0)
+* Many other new features and improvements. Details [here](/blog/version-1-1-175-0).
 
 ### Version 1.1.164.0 (6 December 2019)
 * Fix a null reference exception that could sometimes happen a few seconds after finishing a recording.
