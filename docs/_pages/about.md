@@ -14,7 +14,7 @@ With SimpleSportsCaster you can live stream and record your team's games with a 
     <img src="{{site.url}}/assets/screens/InGame2.png">
     <img src="{{site.url}}/assets/screens/InGame3.png">
     <img src="{{site.url}}/assets/screens/InGame4.png">
-    <img src="{{site.url}}/assets/screens/PreGame1.png">
+    <img src="{{site.url}}/assets/screens/Pregame1.png">
     <img src="{{site.url}}/assets/screens/InGame5.png">
     <img src="{{site.url}}/assets/screens/Halftime1.png">
     <img src="{{site.url}}/assets/screens/Final1.png">
