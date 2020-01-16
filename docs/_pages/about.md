@@ -9,11 +9,17 @@ hidetitle: true
 
 With SimpleSportsCaster you can live stream and record your team's games with a scoreboard that's customizable and easy to operate.
 
-<!-- need a screenshot here -->
-<div align="center" class="gallery" data-columns="2">
-    <img src="/images/InGame1.png">
-    <img src="/images/InGame2.png">
+<div align="center" class="gallery" data-columns="3">
+    <img src="{{site.url}}/assets/screens/InGame1.png">
+    <img src="{{site.url}}/assets/screens/InGame2.png">
+    <img src="{{site.url}}/assets/screens/InGame3.png">
+    <img src="{{site.url}}/assets/screens/InGame4.png">
+    <img src="{{site.url}}/assets/screens/PreGame1.png">
+    <img src="{{site.url}}/assets/screens/InGame5.png">
+    <img src="{{site.url}}/assets/screens/Halftime1.png">
+    <img src="{{site.url}}/assets/screens/Final1.png">
 </div>
+
 
 Features:
 * Customize the scoreboard with team colors and logos.
@@ -66,6 +72,10 @@ The free version of SimpleSportsCaster puts a watermark over the upper-right cor
 In the future, SimpleSportsCaster will use a subscription model to unlock the full version. Pricing to be determined.
 
 ## Version History
+
+### Version 1.1.184.0 (15 January 2020)
+* Improve styling of pivot header in overlaid preview mode.
+* Package updates: Microsoft.Windows.CppWinRT 2.0.200115.8 and Telerik.UI.for.UniversalWindowsPlatform 1.0.1.8
 
 ### Version 1.1.182.0 (14 January 2020)
 * Customizable video watermark. Details [here](/blog/version-1-1-182-0).
