@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Version 1.1.200.0"
+description: ""
+date: "2020-01-29 00:00:00 -0700"
+author: AdamZofware
+version: 1.0.0
+comments: true
+redirect_from: /blog/version-1-1-200-0
+---
+
+### Version 1.1.200.0 (29 January 2020)
+
+**NOTE!** This build will upgrade your game databases to support syncing between multiple computers. The upgrade is automatic and one-way so once you install this build you won't be able to use your databases with older builds. If necessary, you can save a backup copy of each of your game databases by using the Export button on the Database page prior to installing this build.
+
+#### New in this version
+* Keep your game database synchronized between multiple computers. See [below](#syncing-your-game-database) for details.
+* Prevent new games from being created without home and away teams.
+* Allow liveries to be created without logos (i.e. logos are optional now).
+* Show a red exclamation on folder paths that aren't valid.
+* Show "Health No Data" status in red if YouTube isn't getting any video data during a live broadcast.
+* Detach the status text from the opacity slider because barely readable status text isn't helpful.
+* Disable swiping between tabs on Database and Game pages because button presses were sometimes being interpreted as swipes.
+* Add EditDateTime as an optional column in all data grids (defaults to off). Use this to see when a record was last changed.
+* Fix several crash bugs.
+
+#### Syncing your game database
+This version of SimpleSportsCaster will let you keep your game databases sychronized between multiple computers. This feature requires a cloud service like OneDrive or DropBox that provides folder sharing. OneDrive is free for all users with a Microsoft Account.
+
+To get OneDrive ready to help with game database synchronization:
+
+1. Launch the OneDrive app. To find it, yype "OneDrive" into the Windows 10 search box on the task bar.
+2. Right-click the OneDrive icon on the left of the OneDrive window and choose Settings.
+3. Click the Choose folder button.
+4. Pick a folder that you'd like to use for game database synchronization.
+5. Click OK.
+6. Repeat these steps on any computer where you'd like to keep your game databases in-sync.
+
+<figure>
+  <img src="{{site.url}}/assets/posts/onedrive-folder-settings.png" alt="OneDrive folder settings"/>
+  <figcaption>OneDrive folder settings</figcaption>
+</figure>
+
+To turn on game database synchronization in SimpleSportsCaster:
+
+1. Go to the Database page.
+2. Click the button under Backup/Sync Folder and choose the folder on OneDrive you set up earlier.
+3. Enable the Sync automatically checkbox if you want synchronization to happen automatically every time you open SimpleSportsCaster or finish a game.
+4. Repeat these steps on any computer where you'd like to keep your game databases in-sync.
+
+You can also click the Sync Now button to sync your current database at any time.
+
+<figure>
+  <img src="{{site.url}}/assets/posts/database-sync.png" alt="Database synchronization settings"/>
+  <figcaption>Database synchronization settings</figcaption>
+</figure>
+
+
+#### Known Issues
+* The SVG support in Windows isn't always perfect. If your SVG file doesn't show up after you import it, then you might be able to get it to work by making a few simple edits to the SVG file in Notepad or another text editor. For example, look near the top of the file to see if the `svg` tag uses the `width` and `height` properties. If it does, then try removing them and see if the file imports successfully.
+* The scoreboard and game clock don't redraw while SimpleSportsCaster is minimized. Game time still advances normally but it just doesn't show on the screen until SimpleSportsCaster is retored from the minimized state.
+* The scoreboard overlay graphics don't align properly when the video capture mode doesn't have a resolution with a 16:9 aspect ratio.
+
+Download it [here](https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=sscdotcom)!
+
+<img src="{{site.url}}/images/logo-banner-with-shadow-1024.png" alt="rss feed image" class="webfeedsFeaturedVisual" width="1"/>
+<media:content url="{{site.url}}/images/social.jpg" />
+
