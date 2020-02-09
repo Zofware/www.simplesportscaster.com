@@ -73,6 +73,20 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.200.0 (29 January 2020)
+
+**NOTE!** This build will upgrade your game databases. The upgrade is automatic and one-way so once you install this build you won't be able to use your databases with older builds. If necessary, you can save a backup copy of each of your game databases by using the Export button on the Database page prior to installing this build.
+
+* Keep your game database synchronized between multiple computers. Details [here](/blog/version-1-1-200-0).
+* Prevent new games from being created without home and away teams.
+* Allow liveries to be created without logos (i.e. logos are optional now).
+* Show a red exclamation on folder paths that aren't valid.
+* Show "Health No Data" status in red if YouTube isn't getting any video data during a live broadcast.
+* Detach the status text from the opacity slider because barely readable status text isn't helpful.
+* Disable swiping between tabs on Database and Game pages because button presses were sometimes being interpreted as swipes.
+* Add EditDateTime as an optional column in all data grids (defaults to off). Use this to see when a record was last changed.
+* Fix several crash bugs.
+
 ### Version 1.1.184.0 (15 January 2020)
 * Improve styling of pivot header in overlaid preview mode.
 * Package updates: Microsoft.Windows.CppWinRT 2.0.200115.8 and Telerik.UI.for.UniversalWindowsPlatform 1.0.1.8
