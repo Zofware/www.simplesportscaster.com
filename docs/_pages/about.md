@@ -73,6 +73,11 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.209.0 (10 February 2020)
+* Add support for license keys.
+* Add support for concurrent user limits. The beta will limit you to running one instance of SimpleSportsCaster at a time per Microsoft account.
+* Disable YouTube live stream health queries to avoid exceeding YouTube API quota limits. More info [here](https://twitter.com/zofware/status/1226380524861542401).
+
 ### Version 1.1.200.0 (29 January 2020)
 
 **NOTE!** This build will upgrade your game databases. The upgrade is automatic and one-way so once you install this build you won't be able to use your databases with older builds. If necessary, you can save a backup copy of each of your game databases by using the Export button on the Database page prior to installing this build.
