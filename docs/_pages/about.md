@@ -73,6 +73,18 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 
 ## Version History
 
+### Version 1.1.218.0 (29 February 2020)
+* Fix a bug that sometimes caused database syncing to fail quietly.
+
+### Version 1.1.217.0 (26 February 2020)
+* Mitigate a crash bug that sometimes happened when showing or hiding the buttons in overlaid preview mode.
+
+### Version 1.1.216.0 (25 February 2020)
+* Update to AppCenter 3.0.0 (analytics and crash reporting)
+
+### Version 1.1.215.0 (24 February 2020)
+* Add ARM64 version.
+
 ### Version 1.1.209.0 (10 February 2020)
 * Add support for license keys.
 * Add support for concurrent user limits. The beta will limit you to running one instance of SimpleSportsCaster at a time per Microsoft account.
