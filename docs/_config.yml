@@ -17,6 +17,9 @@ collections:
   future:
     output: true
     permalink: /future/:slug
+  releases:
+    output: true
+    permalink: /releases/:slug
 
 defaults:
   -
@@ -45,6 +48,8 @@ defaults:
 
 markdown: kramdown
 
+timezone: America/Los_Angeles
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -66,6 +71,10 @@ liquid:
     error_mode:       warn
     strict_filters:   true
     strict_variables: false
+
+feed:
+  collections:
+    - releases
 
 jekyll-archives:
   enabled: all

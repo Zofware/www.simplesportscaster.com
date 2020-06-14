@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<section class="single">
+
+    <div class="wrap">
+
+        <h1>{{ page.title }}</h1>
+        <p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+        {{ page.content }}
+
+        <p>
+            <a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='Download it here' style='width: 142px; height: 52px;' /></a>
+        </p>
+
+        <p>
+            <a href="{{site.url}}/releases" class="button">Back to release history</a>
+        </p>
+
+        {% include disqus.html %}
+    </div>
+
+</section>

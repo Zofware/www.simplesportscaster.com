@@ -1,0 +1,39 @@
+---
+layout: default
+title: Release History
+description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
+featured_image: /images/social.jpg
+---
+
+<section class="listing single">
+
+    <div class="wrap">
+
+        <h1>Release History <a href="{{site.url}}/feed/releases.xml"><i class="fas fa-rss"></i></a></h1>
+
+        {% for post in site.releases reversed %}
+
+        <article class="listing-post">
+
+            <!--
+            {% if post.featured_image %}
+            <a href="{{ post.url }}" class="listing-post__image" style="background-image: url({{ post.featured_image  }});"></a>
+            {% endif %}
+            -->
+
+            <div class="listing-post__content">
+                <p>{{ post.excerpt }}</p>
+
+                {% if post.content.size > post.excerpt.size %}
+                <p>
+                    <a href="{{ post.url }}" class="button">Read More</a>
+                    {% endif %}
+            </div>
+
+        </article>
+
+        {% endfor %}
+
+    </div>
+
+</section>

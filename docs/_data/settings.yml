@@ -21,6 +21,8 @@ menu_settings:
       url: '/termsofuse'
 #    - title: 'Projects'
 #      url: '/projects/'
+    - title: 'History'
+      url: '/releases'
     - title: 'Help'
       url: '/help'
     - title: 'Contact'
