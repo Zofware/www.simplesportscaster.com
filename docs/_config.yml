@@ -1,6 +1,9 @@
 site: SimpleSportsCaster
 title: SimpleSportsCaster
 
+url: https://www.simplesportscaster.com
+baseurl:
+
 collections:
   pages:
     output: true

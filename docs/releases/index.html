@@ -17,7 +17,7 @@ featured_image: /images/social.jpg
 
             <!--
             {% if post.featured_image %}
-            <a href="{{ post.url }}" class="listing-post__image" style="background-image: url({{ post.featured_image  }});"></a>
+            <a href="{{ post.url | relative_url }}" class="listing-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
             {% endif %}
             -->
 
@@ -26,7 +26,7 @@ featured_image: /images/social.jpg
 
                 {% if post.content.size > post.excerpt.size %}
                 <p>
-                    <a href="{{ post.url }}" class="button">Read More</a>
+                    <a href="{{ post.url | relative_url }}" class="button">Read More</a>
                     {% endif %}
             </div>
 

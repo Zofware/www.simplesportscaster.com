@@ -16,7 +16,7 @@ featured_image: /images/social.jpg
             <li>
                 <span>{{ post.date | date: "%B %-d, %Y" }}</span>
                 &raquo;
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </li>
             {% endfor %}
         </ul>
