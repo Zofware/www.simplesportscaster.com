@@ -13,7 +13,7 @@ featured_image: /images/social.jpg
 
         <ul>
             {% for topic in site.help %}
-            <li>
+            <li class="build-dependent-content" data-min-build="{{ topic.min_build }}" data-max-build="{{ topic.max_build }}">
                 <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
             </li>
             {% endfor %}

@@ -3,6 +3,7 @@ basic_settings:
   company_name: Zofware LLC
   site_tagline: Stream and record your games with a live scoreboard
   favicon_image: /images/favicon.png
+  current_build: 219
 
 header_settings:
   avatar_image: 
@@ -172,7 +173,7 @@ font_settings:
 advanced_settings:
   # unfortunately ajax_loading interferes with Disqus
   ajax_loading: false
-  analytics_code: ""
-  custom_styles: ""
-  header_js: ""
-  footer_js: ""
+  analytics_code: false
+  custom_styles: "/css/build-dependent-content.css"
+  header_js: false
+  footer_js: "/js/build-dependent-content.js"

@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 
 <html class="no-js" lang="en">
 
@@ -50,7 +50,7 @@
 
     {% if site.data.settings.advanced_settings.custom_styles %}
     <!-- Custom Styles -->
-    <style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
+    <link rel="stylesheet" href="{{ site.data.settings.advanced_settings.custom_styles | relative_url }}">
     {% endif %}
 
     {% if site.data.settings.advanced_settings.analytics_code %}
@@ -60,7 +60,7 @@
 
     {% if site.data.settings.advanced_settings.header_js %}
     <!-- Extra Header JS Code -->
-    {{ site.data.settings.advanced_settings.header_js }}
+    <script src="{{ site.data.settings.advanced_settings.header_js | relative_url }}"></script>
     {% endif %}
 
     <!-- RSS feed -->
@@ -88,7 +88,7 @@
                 <animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite"></animate>
                 <animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite"></animate>
             </circle>
-         </svg>
+        </svg>
     </div>
 
     <div class="page-loader"></div>
@@ -114,7 +114,7 @@
 
     {% if site.data.settings.advanced_settings.footer_js %}
     <!-- Extra Footer JS Code -->
-    {{ site.data.settings.advanced_settings.footer_js }}
+    <script src="{{ site.data.settings.advanced_settings.footer_js | relative_url }}"></script>
     {% endif %}
 
 

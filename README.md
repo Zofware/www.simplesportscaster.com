@@ -17,3 +17,5 @@ Simples theme demo: https://simples.jekyllthemes.io/
 Moving pages into _pages folder:  
 https://mademistakes.com/articles/using-jekyll-2016/  
 https://github.com/jekyll/jekyll/issues/920
+
+Liquid cheat sheet: https://www.shopify.com/partners/shopify-cheat-sheet

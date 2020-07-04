@@ -30,6 +30,8 @@ defaults:
       path: ""
     values:
       layout: "default"
+      min_build: 0
+      max_build: 999999
   -
     scope:
       path: ""
