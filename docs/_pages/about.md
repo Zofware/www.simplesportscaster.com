@@ -35,30 +35,29 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 
 <!-- Large badge -->
 <!--
-<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
+<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Get it from Microsoft' style='width: 284px; height: 104px;'/></a>
 -->
 
 <!-- Small badge -->
 <!--
-<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png' alt='English badge' style='width: 127px; height: 52px;'/></a>
+<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get_L.png' alt='Get' style='width: 127px; height: 52px;'/></a>
 -->
 
 <!-- normal banner -->
-<div align="center" id="mspb-9nh4v22khyr3" class="9NRQMTPGS298"></div>
-<script src="https://storebadge.azureedge.net/src/badge-1.8.3.js"></script>
+<div id="mspb-13l7a8y9mrnt" class="9NRQMTPGS298"></div>
+<script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
 <script>
   mspb('9NRQMTPGS298', function(badge) {
-    document.getElementById('mspb-9nh4v22khyr3').innerHTML = badge;
+    document.getElementById('mspb-13l7a8y9mrnt').innerHTML = badge;
   });
 </script>
-
 <!-- large banner -->
 <!--
-<div align="center" id="mspb-6lmsmry22ios" class="9NRQMTPGS298"></div>
-<script src="https://storebadge.azureedge.net/src/badge-1.8.3.js"></script>
+<div id="mspb-fiesvxg2x8f3" class="9NRQMTPGS298"></div>
+<script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
 <script>
   mspb({ productId: '9NRQMTPGS298', badgeType: 'large' }, function(badge) {
-    document.getElementById('mspb-6lmsmry22ios').innerHTML = badge;
+    document.getElementById('mspb-fiesvxg2x8f3').innerHTML = badge;
   });
 </script>
 -->
