@@ -44,7 +44,7 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 -->
 
 <!-- normal banner -->
-<div id="mspb-13l7a8y9mrnt" class="9NRQMTPGS298"></div>
+<div align="center" id="mspb-13l7a8y9mrnt" class="9NRQMTPGS298"></div>
 <script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
 <script>
   mspb('9NRQMTPGS298', function(badge) {
@@ -53,7 +53,7 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 </script>
 <!-- large banner -->
 <!--
-<div id="mspb-fiesvxg2x8f3" class="9NRQMTPGS298"></div>
+<div align="center" id="mspb-fiesvxg2x8f3" class="9NRQMTPGS298"></div>
 <script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
 <script>
   mspb({ productId: '9NRQMTPGS298', badgeType: 'large' }, function(badge) {
