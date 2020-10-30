@@ -73,3 +73,7 @@ In the future, SimpleSportsCaster will use a subscription model to unlock the fu
 ## Version History
 
 The release history has [moved](/releases).
+
+## [Latest Tweet](https://twitter.com/zofware?ref_src=twsrc%5Etfw) <a href="https://twitter.com/zofware?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @zofware</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--<a class="twitter-timeline" data-height="640" data-theme="light" href="https://twitter.com/zofware?ref_src=twsrc%5Etfw">Tweets by zofware</a>-->
+<a class="twitter-timeline" href="https://twitter.com/zofware?ref_src=twsrc%5Etfw" data-tweet-limit="1" data-chrome="noheader nofooter noborders"> </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
