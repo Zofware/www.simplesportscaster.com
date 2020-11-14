@@ -3,6 +3,7 @@ layout: help
 title: Supported Tablets and Computers
 description: ""
 # subtitle: 
+version: 1.1.0
 featured_image: /images/social.jpg
 permalink: /help/machines
 redirect_from: /machines
@@ -14,14 +15,13 @@ SimpleSportsCaster supports tablets and computers running Windows 10 that have h
 
 Please leave a comment at the bottom of this page if you know of other tablets and computers that work (or don't work) with SimpleSportsCaster and we will update the table. Thank you! 
 
-Note: As an Amazon Associate this web site earns from qualifying purchases.
-
-| Device | Supported? | Notes | Amazon |
-|--------|------------|-------|--------|
-| [Microsoft Surface Pro LTE (5th Gen)](https://www.microsoft.com/en-us/p/surface-pro-5th-gen-for-business/907TDS4DGWWV/J7KS) | yes | Mostly good but can overheat on a hot day. See [additional notes](#microsoft-surface-pro-lte). | <a href="https://www.amazon.com/Microsoft-Surface-Intel-Core-128GB/dp/B07CFYPSD2/ref=as_li_ss_il?keywords=Surface+Pro+LTE+5th+gen&qid=1571282450&sr=8-3&linkCode=li2&tag=zofwarellc-20&linkId=77585eb208f123aad676ad68898c10f4&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CFYPSD2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=zofwarellc-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=zofwarellc-20&language=en_US&l=li2&o=1&a=B07CFYPSD2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
-| [Microsoft Surface Go](https://www.microsoft.com/en-us/p/surface-go/8V9DP4LNKNSZ/000R) | NO | Seems fine at first but overheats after just a few minutes | <a href="https://www.amazon.com/Microsoft-Surface-Touchscreen-PixelSense-Pentium/dp/B07MGZ4DT6/ref=as_li_ss_il?keywords=Surface+Go&qid=1571285057&s=electronics&sr=1-4&linkCode=li2&tag=zofwarellc-20&linkId=a514d8172838e32624fffa56285e7437&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07MGZ4DT6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=zofwarellc-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=zofwarellc-20&language=en_US&l=li2&o=1&a=B07MGZ4DT6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
-| [Dell Latitude 5414 Rugged Laptop](https://www.dell.com/Ai/business/p/latitude-14-5414-laptop/pd) | yes | Extremely reliable in all kinds of weather. No touch screen. | |
-| [Dell Latitude 7212 Rugged Extreme Tablet]() | yes | Core i5-7300 model tested| |
+| Device | | Supported? | Notes |
+|--------|-|------------|-------|
+| [Dell Latitude 5424 Rugged Laptop](https://www.dell.com/en-us/work/shop/cty/pdp/spd/latitude-14-5424-laptop/xctol542414us) | <img border="0" width="300" src="https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/latitude_notebooks/14_5424/global_spi/ng/notebook-latitude-14-5424-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400" /> | yes | Extremely reliable in all kinds of weather. |
+| [Dell Latitude 7220 Rugged Extreme Tablet](https://www.dell.com/en-us/work/shop/cty/pdp/spd/latitude-12-7220-tablet/xctol722012us) | <img border="0" width="300" src="https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/latitude_notebooks/12_7220/global_spi/ng/tablet-latitude-12-7220-black-falcon-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400"/> | yes | Older 7212 models with Intel Core i7-8650U and i5-7300 tested. The i7 model performs better when recording and live streaming simultaneously. |
+| [Microsoft Surface Pro 7](https://www.microsoft.com/en-us/p/surface-pro-7/8n17j0m5zzqs) | <img border="0" width="300" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4tjV5?ver=eab4&q=90&m=6&h=270&w=270&b=%23FFFFFFFF&f=jpg&o=f&aim=true"/> | yes | Intel Core i7 model performs well. |
+| [Microsoft Surface Pro LTE (5th Gen)](https://www.microsoft.com/en-us/p/surface-pro-5th-gen-for-business/907TDS4DGWWV) | <img border="0" width="300" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW7Li9?ver=fa95&q=90&m=6&h=270&w=270&b=%23FFFFFFFF&f=jpg&o=f&aim=true"/> | yes | Mostly good but can overheat on a hot day. See [additional notes](#microsoft-surface-pro-lte). |
+| [Microsoft Surface Go](https://www.microsoft.com/en-us/p/surface-go/8V9DP4LNKNSZ) | <img border="0" width="300" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2i7oG?ver=1db1&q=90&m=6&h=270&w=270&b=%23FFFFFFFF&o=f&aim=true"/> | NO | Seems fine at first but overheats after just a few minutes |
 
 ## Additional Notes
 
