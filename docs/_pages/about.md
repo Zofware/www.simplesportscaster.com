@@ -9,17 +9,7 @@ hidetitle: true
 
 With SimpleSportsCaster you can live stream and record your team's games with a scoreboard that's customizable and easy to operate.
 
-<div align="center" class="gallery" data-columns="3">
-    <img src="{{site.url}}/assets/screens/InGame1.png">
-    <img src="{{site.url}}/assets/screens/InGame2.png">
-    <img src="{{site.url}}/assets/screens/InGame3.png">
-    <img src="{{site.url}}/assets/screens/InGame4.png">
-    <img src="{{site.url}}/assets/screens/Pregame1.png">
-    <img src="{{site.url}}/assets/screens/InGame5.png">
-    <img src="{{site.url}}/assets/screens/Halftime1.png">
-    <img src="{{site.url}}/assets/screens/Final1.png">
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCfT_1S-jgSR6ALd3sFmMrlx-CXDJ7yWR&loop=1&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Features:
 * Customize the scoreboard with team colors and logos.
@@ -61,6 +51,17 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
   });
 </script>
 -->
+
+<div align="center" class="gallery" data-columns="3">
+    <img src="{{site.url}}/assets/screens/InGame1.png">
+    <img src="{{site.url}}/assets/screens/InGame2.png">
+    <img src="{{site.url}}/assets/screens/InGame3.png">
+    <img src="{{site.url}}/assets/screens/InGame4.png">
+    <img src="{{site.url}}/assets/screens/Pregame1.png">
+    <img src="{{site.url}}/assets/screens/InGame5.png">
+    <img src="{{site.url}}/assets/screens/Halftime1.png">
+    <img src="{{site.url}}/assets/screens/Final1.png">
+</div>
 
 ## Beta Testing
 
