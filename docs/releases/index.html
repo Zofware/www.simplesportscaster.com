@@ -25,9 +25,8 @@ featured_image: /images/social.jpg
                 <p>{{ post.excerpt }}</p>
 
                 {% if post.content.size > post.excerpt.size %}
-                <p>
-                    <a href="{{ post.url | relative_url }}" class="button">Read More</a>
-                    {% endif %}
+                <p><a href="{{ post.url | relative_url }}" class="button">Read More</a></p>
+                {% endif %}
             </div>
 
         </article>
