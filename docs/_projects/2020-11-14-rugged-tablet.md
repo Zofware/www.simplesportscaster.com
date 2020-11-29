@@ -19,36 +19,34 @@ After some discussion with the club, we decided build around the [Dell Rugged Ex
 
 The end result was a durable, one-piece unit that quickly attaches to the Hi-Pod and gets the club live and on-the-air with minimal fuss.
 
-![](/assets/projects/rugged/whole-assembly.jpg)
+![Completed Project](/assets/projects/rugged/completed-project.jpg)
 
 <!--more-->
 
-Each system we built for Seattle United included the tablet, mount and video connections, an on-air light, and external batteries with a custom switchbox to toggle between them. You may choose to mix and match the system components differently depending on your needs so we've split the system design into several sections, the latter of which are optional.
+Each system we built for Seattle United included the tablet, mount and video connections, an on-air light, and external batteries with a custom switchbox to toggle between them. You may choose to mix and match the system components differently depending on your needs so we've split the system design into several sections, some of which are optional.
 
 <!-- Tables converted from Excel by https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ -->
 
-## System Design
+## Parts Lists
 
-1. [Main Tablet Assembly](#main-tablet-assembly)
-2. [External Batteries](#external-batteries)
-3. [On-Air Light](#on-air-light)
-4. [Battery Switchbox](#battery-switchbox)
+The parts lists are broken into several sections, the latter of which are optional. Prices shown were current as of November 2020.
 
-### Main Tablet Assembly
+* [Main Tablet Parts](#main-tablet-parts)
+* [External Battery Parts](#external-battery-parts) (optional)
+* [On-Air Light Parts](#on-air-light-parts) (optional)
+* [Battery Switchbox Parts](#battery-switchbox-parts) (optional)
 
-This is the core of the system with the main components you need to run SimpleSportsCaster on a tablet attached to a Hi-Pod pole. It doesn't include some of the optional components like the on-air light or the external batteries. To be clear, even if you don't add the [external batteries](#external-batteries), you'll still need some kind of external power source to make it through a 2 hour game.
+### Main Tablet Parts
 
-The single most expensive piece of the system is the Dell Rugged Extreme Tablet itself. We recommend you choose to configure it with an Intel Core i7 processor, especially if you want to live stream and record simultaneously.
+This is the core of the system with the main components you need to run SimpleSportsCaster on a rugged tablet attached to a Hi-Pod pole. It doesn't include some of the optional components like the on-air light or the external batteries. To be clear, even if you don't add the [external batteries](#external-battery-parts), you'll still need some kind of external power source to make it through a 2 hour game.
+
+The single most expensive piece of the system is the Dell Rugged Extreme Tablet itself. We recommend a configuration with the Intel Core i7 processor, especially if you want to live stream and record simultaneously.
 
 For live streaming, it's extremely convenient to include one of the mobile broadband options but you can also tether your phone or use some other external mobile hotspot.
 
 If you intend to record your games to the tablet, you'll want a reasonably large hard drive or solid state storage. Recording high quality HD 1080p60 video at 50 mbps consumes over 20 gigabytes of storage per hour. Think about how many games you'll want to save on the tablet before transferring them elsewhere and plan accordingly. Seattle United chose the 512 GB option which let's them record an entire weekend worth of ECNL games without running out of space.
 
 After the tablet, one of the most important components is the video capture device that allows the tablet to recieve the video feed from the camera on top of the Hi-Pod. We choose the [Elgato HD60 S+](https://www.elgato.com/en/gaming/game-capture-hd60-s-plus) because it's a high-quality device from a well-known manufacturer. It also has two HDMI ports which allows you to view the video feed on the tablet and on the Hi-Pod's monitor at the same time. This is great if you have a two-person crew where one person operates the camera while viewing the Hi-Pod monitor and another operates the scoreboard and keeps statistics on the tablet.
-
-#### Parts List
-
-Here is the complete parts list for the main tablet assembly. Prices shown were current as of November 2020.
 
 | Manufacturer    | Part                                                                                                                                                                                                                         | Quantity | Unit Cost | Total Cost | Description                                                                                                               |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -67,32 +65,20 @@ Here is the complete parts list for the main tablet assembly. Prices shown were 
 |                 | misc tools and hardware                                                                                                                                                                                                      |          |           |            | nuts, bolts, screwdrivers, wrenches, thread lock glue                                                                     |
 | **Total**       |                                                                                                                                                                                                                              |          |           | **$2,954** |                                                                                                                           |
 
-#### Clamp Arm
+### External Battery Parts
 
-Assemble the clamp and tablet mount parts as shown below.
-
-You may want to some thread lock glue on the Manfrotto 2907 short stud where it screws into the back of the RAM 202CNSU ball.
-
-![](/assets/projects/rugged/clamp-arm.jpg)
-
-If you plan to add the [external batteries](#external-batteries) then you'll want to sandwich the battery mounting plate between the PadHolder Iron L7202 and the RAM 2461U at this time. Otherwise, you'll have to do some disassembly to add it later.
-
-#### Tablet Mount
-
-If necessary, unscrew and separate the two halves of the PadHoldr Iron L7202. Attach the tablet bracket of the L7202 to the back of the Dell tablet using the included screws.
-
-![](/assets/projects/rugged/tablet-bracket.jpg)
-
-### External Batteries
+One requirement we wanted to satisfy was the ability to broadcast and record two complete games without needing to plug in or recharge. We determined that adding two Dell 65 watt-hour external batteries was enough to meet that requirement. The 4"x10" aluminum sheet provides a mounting surface for the batteries. You can use a different material like plastic if you prefer.
 
 | Manufacturer | Part                                                                                                                                               | Quantity | Unit Cost | Total Cost | Description                                                                           |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ------------------------------------------------------------------------------------- |
-| Dell         | [PW7015L 65 WHr Power Bank Plus](https://www.dell.com/en-us/work/shop/dell-notebook-power-bank-plus-18000-mah-pw7015l/apd/451-bbkv/pc-accessories) | 2        | $110      | $220       | 2 external batteries per system, to allow 2 recording and broadcasting two full games |
-| ksmetals.com | [KS257 4"x10"x0.064" aluminum sheet](https://www.amazon.com/Precision-Metals-257-Aluminum-Thickness/dp/B004AFAZNS)                                 | 1        | $3        | $3         | backplane for batteries, USB hub, switch box                                          |
+| Dell         | [PW7015L 65 WHr Power Bank Plus](https://www.dell.com/en-us/work/shop/dell-notebook-power-bank-plus-18000-mah-pw7015l/apd/451-bbkv/pc-accessories) | 2        | $110      | $220       | 2 external batteries per system, to allow recording and broadcasting two full games   |
+| ksmetals.com | [KS257 4"x10"x0.064" aluminum sheet](https://www.amazon.com/Precision-Metals-257-Aluminum-Thickness/dp/B004AFAZNS)                                 | 1        | $3        | $3         | mounting plate for batteries, USB hub, switch box                                     |
 |              | misc tools and hardware                                                                                                                            |          |           |            | drill press, drill bits, clamps, Velcro strips from above                             |
 | **Total**    |                                                                                                                                                    |          |           | **$223**   |                                                                                       |
 
-### On-Air Light
+### On-Air Light Parts
+
+Adding an on-air light is a friendly way to remind people nearby that their voices might be heard on your live stream. SimpleSportsCaster can also flash the light as a low battery warning to the camera operator. We plug the light into a USB gooseneck extension to lift it above the tablet high enough to be visible from all sides. We also add a USB/network/HDMI hub as a convenience since the tablet has limited number of ports.
 
 | Manufacturer    | Part                                                                                                                          | Quantity | Unit Cost | Total Cost | Description                                                            |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ---------------------------------------------------------------------- |
@@ -104,7 +90,9 @@ If necessary, unscrew and separate the two halves of the PadHoldr Iron L7202. At
 |                 | misc tools and hardware                                                                                                       |          |           |            | Velcro strips from above                                               |
 | **Total**       |                                                                                                                               |          |           | **$93**    |                                                                        |
 
-### Battery Switchbox
+### Battery Switchbox Parts
+
+To simplify switching between the two external batteries, we built a little switch box that attaches to the back of the tablet. It has one position for each of the external batteries plus a third position that allows charging both batteries and the tablet from a single power adapter.
 
 | Manufacturer | Part                                                                        | Quantity | Unit Cost | Total Cost | Description                                                                        |
 | ------------ | --------------------------------------------------------------------------- | -------- | --------- | ---------- | ---------------------------------------------------------------------------------- |
@@ -114,3 +102,47 @@ If necessary, unscrew and separate the two halves of the PadHoldr Iron L7202. At
 |              | misc tools and hardware                                                     |          |           |            | screws, nuts, solder, wires, drill, bits, screwdriver, soldering iron, wire cutter |
 | **Total**    |                                                                             |          |           | **$20**    |                                                                                    |
 
+## Assembly Instructions
+
+1. [Battery Mounting Plate](#battery-mounting-plate)
+2. [Clamp Arm](#clamp-arm)
+3. [Tablet Mount](#tablet-mount)
+4. [Video Capture](#video-capture)
+
+### Battery Mounting Plate
+
+If you choose to add the Dell [external batteries](#external-battery-parts) to your system, use the RAM 2461U VESA plate as a template to drill four holes through the KS257 aluminum plate as shown here:
+
+![Battery Plate Holes](/assets/projects/rugged/battery-plate-holes.jpg)
+
+Use a metal file to smooth the sharp edges of the aluminum sheet and round the corners to make them safer to touch.
+
+Sandwich the battery mounting plate between the PadHolder Iron L7202 and the RAM 2461U VESA plate and join all three pieces together with four nuts and bolts. If the bolts included with the PadHoldr kit are too long or too short then you'll need to visit a hardware store to buy some bolts of the proper length. 
+
+See the two images below for reference. Also note the location of the adhesive Velcro hook strips. Some of the Velcro is optional depending upon whether or not you plan to install the on-air light with Anker USB hub or the battery switchbox.
+
+![Battery Plate Ball Side](/assets/projects/rugged/battery-plate-ball-side.jpg)
+
+![Battery Plate Tablet Side](/assets/projects/rugged/battery-plate-tablet-side.jpg)
+
+### Clamp Arm
+
+Assemble the clamp and tablet mount parts as shown below.
+
+You may want to apply some thread lock glue on the Manfrotto 2907 short stud where it screws into the back of the RAM 202CNSU ball.
+
+If you chose to build the battery mounting plate then you will have already joined the RAM 2461U to the PadHoldr Iron L7202 with the battery plate sandwiched in between.
+
+![Clamp Arm](/assets/projects/rugged/clamp-arm.jpg)
+
+If you haven't already done so, unscrew and separate the two halves of the PadHoldr Iron L7202. Place a strip of Velcro hooks on the inside of the half of the L7202 that is bolted to the RAM 2461U VESA plate. This Velcro strip will hold the Elgato HD60 S+ video capture device. This image shows where to place the Velcro.
+
+![Velcro hooks for Elgato HD60 S+](/assets/projects/rugged/video-capture-velcro-hooks.jpg)
+
+### Tablet Mount
+
+If you haven't already done so, unscrew and separate the two halves of the PadHoldr Iron L7202. Attach the tablet bracket of the L7202 to the back of the Dell tablet using the included screws.
+
+![Tablet Bracket](/assets/projects/rugged/tablet-bracket.jpg)
+
+### Video Capture
