@@ -62,7 +62,7 @@ After the tablet, one of the most important components is the video capture devi
 | CableCreation   | [HDMI angle adapters](https://www.amazon.com/Female-Adapter-CableCreation-Converter-Extender/dp/B07C2Q834L?ref_=ast_sto_dp&th=1)                                                                                             | 1        | $7        | $7         | pair of HDMI angle adapters to keep cables pointing down to shed rain                                                     |
 | CableCreation   | [Left Angle HDMI cable](https://www.amazon.com/Extension-CableCreation-Vertical-Ethernet-Channel/dp/B01LA6TZGW?ref_=ast_sto_dp&th=1)                                                                                         | 1        | $6        | $6         | 3' left angle HDMI cable extension to connect HDMI cable from camera to Elgato while relieving strain and shedding water. |
 | Velcro          | [Heavy Duty 4x2 Inch strips (4 pack)](https://www.amazon.com/VELCRO-Brand-Industrial-Fasteners-Professional/dp/B0010HADEA)                                                                                                   | 1        | $6        | $6         | For mounting video capture device but also the USB hub, batteries and switch box if you include them                      |
-|                 | misc tools and hardware                                                                                                                                                                                                      |          |           |            | nuts, bolts, screwdrivers, wrenches, thread lock glue                                                                     |
+|                 | misc tools and hardware                                                                                                                                                                                                      |          |           |            | nuts, bolts, screwdrivers, wrenches, thread lock glue, zip ties                                                                    |
 | **Total**       |                                                                                                                                                                                                                              |          |           | **$2,954** |                                                                                                                           |
 
 ### External Battery Parts
@@ -107,7 +107,9 @@ To simplify switching between the two external batteries, we built a little swit
 1. [Battery Mounting Plate](#battery-mounting-plate)
 2. [Clamp Arm](#clamp-arm)
 3. [Tablet Mount](#tablet-mount)
-4. [Video Capture](#video-capture)
+4. [Video Capture and On-Air Light](#video-capture-and-on-air-light)
+5. [Video and USB Cabling](#video-and-usb-cabling)
+6. [Attach Tablet to Mount](#attach-tablet-to-mount)
 
 ### Battery Mounting Plate
 
@@ -117,7 +119,7 @@ If you choose to add the Dell [external batteries](#external-battery-parts) to y
 
 Use a metal file to smooth the sharp edges of the aluminum sheet and round the corners to make them safer to touch.
 
-Sandwich the battery mounting plate between the PadHolder Iron L7202 and the RAM 2461U VESA plate and join all three pieces together with four nuts and bolts. If the bolts included with the PadHoldr kit are too long or too short then you'll need to visit a hardware store to buy some bolts of the proper length. 
+Sandwich the battery mounting plate between the PadHolder Iron L7202 and the RAM 2461U VESA plate and join all three pieces together with four nuts and bolts. If the bolts included with the PadHoldr kit are too long or too short then you'll need to visit a hardware store to buy some bolts of the proper length.
 
 See the two images below for reference. Also note the location of the adhesive Velcro hook strips. Some of the Velcro is optional depending upon whether or not you plan to install the on-air light with Anker USB hub or the battery switchbox.
 
@@ -145,4 +147,40 @@ If you haven't already done so, unscrew and separate the two halves of the PadHo
 
 ![Tablet Bracket](/assets/projects/rugged/tablet-bracket.jpg)
 
-### Video Capture
+### Video Capture and On-Air Light
+
+Attach a length of Velcro strip (loop side) to the back of the Elgato HD60 S+ video capture device. Then press it onto the Velcro hooks that you already attached to the inside of the PadHoldr Iron L7202 as shown below.
+
+![Velcro loops for Elgato HD60 S+](/assets/projects/rugged/video-capture-velcro-loops.jpg)
+
+If you are building the on-air light option, plug the blink(1) LED light into one end of the USB gooseneck and the right angle USB adapter into the other end as shown below.
+
+![On-air light and gooseneck](/assets/projects/rugged/on-air-light-gooseneck.jpg)
+
+Attach a thin strip of Velcro loops on the back of the Anker USB hub. Plug the open end of the right angle adapter into the USB hub. Finally, attach the USB hub to the KS257 aluminum sheet by pressing the Velcro together as shown below.
+
+![Velcro for USB hub and on-air light](/assets/projects/rugged/on-air-light-velcro.jpg)
+
+### Video and USB Cabling
+
+Now it's time to connect the HDMI and USB cables to the accessories that you previously attached to the PadHoldr Iron L7202 tablet mount. Start by plugging the two CableCreation angled HDMI cables into the Elgato HD60 S+ as pictured below. Route them down toward the open holes at the bottom of the Iron L7202 and secure them with zip ties. This helps relieve the strain on the cables and where they connect to the HD60 S+.
+
+Next, add the two USB extension cables from UsbFireWire.com. Plug the USB-C end of the RR-ADCS-15GRC cable into the HD60 S+. Also connect the female end of the RR-CVCF-10GRNTP cable to the male USB-C connection on the Anker USB hub.
+
+Note: The image below includes a stereo microphone cable. This was necessary in the case of the Seattle United build because the Sony HDR-CX405 Hi-Pod cameras don't send audio via HDMI. This was solved by mounting a small lapel microphone next to the camera and running a long microphone lead down to the bottom of the Hi-Pod pole. That lead was then plugged into a 3 foot audio extension cable, one end of which is pictured below and is plugged into the microphone input on the Dell Rugged Extreme Tablet. Most cameras send both audio and video via HDMI so the extra microphone isn't usually necessary.
+
+![Video and USB cabling](/assets/projects/rugged/video-and-usb-cabling.jpg)
+
+### Attach Tablet to Mount
+
+With all the video and data connections in place, you can now join the two halves of the PadHoldr Iron L7202 back together again. Lay the tablet face down and slide the slots on the other half of the L7202 onto the hooks on the tablet bracket as shown below.
+
+![Attach tablet to mount step 1](/assets/projects/rugged/attach-tablet-to-mount-1.jpg)
+
+Use a long Allen wrench to screw in the bolt that locks the two halves of the PadHoldr Iron L7202 together.
+
+![Attach tablet to mount step 2](/assets/projects/rugged/attach-tablet-to-mount-2.jpg)
+
+This image shows the locking bolt in position after being tightened.
+
+![Attach tablet to mount step 3](/assets/projects/rugged/attach-tablet-to-mount-3.jpg)
