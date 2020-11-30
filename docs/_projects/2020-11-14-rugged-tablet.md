@@ -19,13 +19,17 @@ After some discussion with the club, we decided build around the [Dell Rugged Ex
 
 The end result was a durable, one-piece unit that quickly attaches to the Hi-Pod and gets the club live and on-the-air with minimal fuss.
 
-![Completed Project](/assets/projects/rugged/completed-project.jpg)
+![Completed Project 1](/assets/projects/rugged/completed-project-1.jpg)
 
 <!--more-->
 
 Each system we built for Seattle United included the tablet, mount and video connections, an on-air light, and external batteries with a custom switchbox to toggle between them. You may choose to mix and match the system components differently depending on your needs so we've split the system design into several sections, some of which are optional.
 
 <!-- Tables converted from Excel by https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ -->
+
+* [Parts Lists](#parts-lists)
+* [Assembly Instructions](#assembly-instructions)
+* [Final Thoughts](#final-thoughts)
 
 ## Parts Lists
 
@@ -123,6 +127,7 @@ Many Hi-Pods come with the Sony HDR-CX405 camcorder. One quirk of this camcorder
 5. [Video and USB Cabling](#video-and-usb-cabling)
 6. [Attach Tablet to Mount](#attach-tablet-to-mount)
 7. [Attach Batteries](#attach-batteries)
+8. [Battery Switchbox](#battery-switchbox)
 
 ### Battery Mounting Plate
 
@@ -226,4 +231,67 @@ If you put the clamp arm back on at this point then the back of the tablet will 
 
 ### Battery Switchbox
 
-to do
+The battery switchbox makes it easy to toggle between the two external Dell batteries without having to move power plugs around. The switchbox also has a third (middle) position that makes it possible to charge both external batteries and the tablets internal batteries with just one power supply.
+
+Start with the 1591MSBK plastic box and cut holes in the lid so you can mount the switch as far to one end of the box as possible. We used black nylon nuts and bolts to secure the switch to the lid.
+
+![Switch mounted on switchbox lid](/assets/projects/rugged/switchbox-lid.jpg)
+
+Next, grab two of the Njuone Dell-compatible power cables and cut the male end off and strip the three wires inside the cable. Like this:
+
+![Female battery cable](/assets/projects/rugged/female-battery-cable.jpg)
+
+Cut the female end off two more Dell power cables and strip those wires too.
+
+![Male battery cable](/assets/projects/rugged/male-battery-cable.jpg)
+
+Drill 2 holes on each side of the 1591MSBK plastic box to allow you to insert the stripped ends of the power cables. Then solder the wires to the switch leads as shown below.
+
+![Switchbox wiring](/assets/projects/rugged/switchbox-wiring.jpg)
+
+Here are a couple views of the switchbox with the wiring complete and the cover open.
+
+![Switchbox internals 1](/assets/projects/rugged/switchbox-internals-1.jpg)
+
+![Switchbox internals 2](/assets/projects/rugged/switchbox-internals-2.jpg)
+
+If you have a label printer, you can print these labels for the outside of the box.
+
+![Switchbox labels](/assets/projects/rugged/switchbox-labels.png)
+
+Cut a piece of Velcro loops to put on the outside of the box lid above the switch. Here is a view showing where to put the Velcro on the lid. It also shows the label for the switch.
+
+![Switchbox exterior 1](/assets/projects/rugged/switchbox-exterior-1.jpg)
+
+The following two views show where to place the labels on the sides of the box.
+
+![Switchbox exterior 2](/assets/projects/rugged/switchbox-exterior-2.jpg)
+
+![Switchbox exterior 3](/assets/projects/rugged/switchbox-exterior-3.jpg)
+
+Slide the switchbox between the tablet and the battery mounting plate near the tablet's power jack as shown below. Press the Velcro together to hold it in place.
+
+![Switchbox installed](/assets/projects/rugged/switchbox-installed.jpg)
+
+The rightmost three labels on the label strip above are for the batteries. In the image above you can see the label for battery #1. Put the label for battery #2 on the other battery. 
+
+The last label with the battery, lightning bolt, and arrow also goes on battery #2 with the arrow pointing to the power jack.
+When you want to charge both external batteries and the tablet's internal battery at the same time, move the switchbox switch to the center position and plug an external battery charger into battery #2. Power will flow through battery #2, to battery #1, then into the tablet, charging all three batteries at once.
+
+## Final Thoughts
+
+Here are a few views of the completed tablet project.
+
+![Completed project 5](/assets/projects/rugged/completed-project-5.jpg)
+
+![Completed project 3](/assets/projects/rugged/completed-project-3.jpg)
+
+![Completed project 2](/assets/projects/rugged/completed-project-2.jpg)
+
+<!--![Completed project 4](/assets/projects/rugged/completed-project-4.jpg)-->
+
+These tablets have been great for Seattle United, especially during 2020 when games have been extremely limited due to COVID restrictions. Having video of intra-team scrimmages has been crucial for athletes in the club hoping to play in college. Since spectators haven't been allowed at most of these scrimmages, parents have enjoyed being able to watch the live streams broadcast from the club tablets.
+
+We'd like to add one final word about the weather. Even though the Dell Rugged Extreme Tablets are able to operate in wet environments, they lose some of their moisture resistance with the data and power doors open on the side. Also, the USB devices, HDMI video connections, and batteries still need to be kept dry.
+
+To help keep the rain off, we made three custom-fit, clear vinyl covers for each of the tablet systems. If there's sufficient interest we can share those plans with you. Otherwise, plan to keep the tablets out of the rain as much as possible with an umbrella or tent overhead.
