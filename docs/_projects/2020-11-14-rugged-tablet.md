@@ -35,6 +35,7 @@ The parts lists are broken into several sections, the latter of which are option
 * [External Battery Parts](#external-battery-parts) (optional)
 * [On-Air Light Parts](#on-air-light-parts) (optional)
 * [Battery Switchbox Parts](#battery-switchbox-parts) (optional)
+* [Microphone for Sony HDR-CX405 Camcorder](#microphone-for-sony-hdr-cx405-camcorder) (optional)
 
 ### Main Tablet Parts
 
@@ -62,7 +63,7 @@ After the tablet, one of the most important components is the video capture devi
 | CableCreation   | [HDMI angle adapters](https://www.amazon.com/Female-Adapter-CableCreation-Converter-Extender/dp/B07C2Q834L?ref_=ast_sto_dp&th=1)                                                                                             | 1        | $7        | $7         | pair of HDMI angle adapters to keep cables pointing down to shed rain                                                     |
 | CableCreation   | [Left Angle HDMI cable](https://www.amazon.com/Extension-CableCreation-Vertical-Ethernet-Channel/dp/B01LA6TZGW?ref_=ast_sto_dp&th=1)                                                                                         | 1        | $6        | $6         | 3' left angle HDMI cable extension to connect HDMI cable from camera to Elgato while relieving strain and shedding water. |
 | Velcro          | [Heavy Duty 4x2 Inch strips (4 pack)](https://www.amazon.com/VELCRO-Brand-Industrial-Fasteners-Professional/dp/B0010HADEA)                                                                                                   | 1        | $6        | $6         | For mounting video capture device but also the USB hub, batteries and switch box if you include them                      |
-|                 | misc tools and hardware                                                                                                                                                                                                      |          |           |            | nuts, bolts, screwdrivers, wrenches, thread lock glue, zip ties                                                                    |
+|                 | misc tools and hardware                                                                                                                                                                                                      |          |           |            | nuts, bolts, screwdrivers, wrenches, thread lock glue, zip ties, label maker                                              |
 | **Total**       |                                                                                                                                                                                                                              |          |           | **$2,954** |                                                                                                                           |
 
 ### External Battery Parts
@@ -102,6 +103,17 @@ To simplify switching between the two external batteries, we built a little swit
 |              | misc tools and hardware                                                     |          |           |            | screws, nuts, solder, wires, drill, bits, screwdriver, soldering iron, wire cutter |
 | **Total**    |                                                                             |          |           | **$20**    |                                                                                    |
 
+### Microphone for Sony HDR-CX405 Camcorder
+
+Many Hi-Pods come with the Sony HDR-CX405 camcorder. One quirk of this camcorder is that it doesn't send any audio via HDMI when recording. It only sends audio via HDMI in playback mode. Unfortunately, this means you have to provide your own microphone if you want to have game audio in your live streams. If your camera provides live audio then you don't need to purchase these parts.
+
+| Manufacturer  | Part                                                                                                                                        | Quantity | Unit Cost | Total Cost | Description                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ---------------------------------------------------------------------------- |
+| CableCreation | [right angle 3.5mm headphone extension 3ft](https://www.amazon.com/Extension-CableCreation-Silver-Plating-Compatible-iPhones/dp/B0793M4WJ9) | 1        | $7        | $7         | Stays plugged into tablet to receive audio feed from pole mounted microphone |
+| YCS Basics    | [3.5mm headphone extension 25 ft](https://www.amazon.com/YCS-Basics-Stereo-Headphone-Extension/dp/B00A6VYQFS)                               | 1        | $7        | $7         | Brings microphone feed down the camera pole                                  |
+| PowerDeWise   | [Omnidirectional label microphone](https://www.amazon.com/dp/B01AG56HYQ/ref=cm_sw_r_cp_api_fabt1_eseXFbC5P9CA6)                             | 1        | $36       | $36        | Mount next to Sony HDR-CX405 camera to provide audio feed                    |
+| **Total**     |                                                                                                                                             |          |           | **$50**    |                                                                              |
+
 ## Assembly Instructions
 
 1. [Battery Mounting Plate](#battery-mounting-plate)
@@ -110,6 +122,7 @@ To simplify switching between the two external batteries, we built a little swit
 4. [Video Capture and On-Air Light](#video-capture-and-on-air-light)
 5. [Video and USB Cabling](#video-and-usb-cabling)
 6. [Attach Tablet to Mount](#attach-tablet-to-mount)
+7. [Attach Batteries](#attach-batteries)
 
 ### Battery Mounting Plate
 
@@ -171,6 +184,10 @@ Note: The image below includes a stereo microphone cable. This was necessary in 
 
 ![Video and USB cabling](/assets/projects/rugged/video-and-usb-cabling.jpg)
 
+To make things easier for your film crew, it's nice to label the video cables. Note: If you added an external microphone for your Sony HDR-CX405 Hi-Pod camera then it's nice to label that too.
+
+![Cable labels](/assets/projects/rugged/cable-labels.jpg)
+
 ### Attach Tablet to Mount
 
 With all the video and data connections in place, you can now join the two halves of the PadHoldr Iron L7202 back together again. Lay the tablet face down and slide the slots on the other half of the L7202 onto the hooks on the tablet bracket as shown below.
@@ -184,3 +201,29 @@ Use a long Allen wrench to screw in the bolt that locks the two halves of the Pa
 This image shows the locking bolt in position after being tightened.
 
 ![Attach tablet to mount step 3](/assets/projects/rugged/attach-tablet-to-mount-3.jpg)
+
+Open the data port door on the side of the tablet and plug in the USB cables and, if used, the microphone cable as shown below.
+
+![Plug in cables](/assets/projects/rugged/plug-in-usb-and-mic-cables.jpg)
+
+### Attach Batteries
+
+If you chose to use the external Dell batteries then you can attach them now. Start by placing the tablet face down on a table.
+
+Attach a strip of Velcro loops over the regulatory label of the first battery. Then flip it over and orient it so that the power plug is facing down and the power cable is directed toward the center of the tablet. Press it onto the Velcro hooks on the left side of the KS257 aluminum sheet as shown below.
+
+![Attach battery #1](/assets/projects/rugged/velcro-battery-1.jpg)
+
+Attach a strip of Velcro loops over the Dell logo on the second battery. Note that the Velcro for battery #2 goes on the opposite side that you used for battery #1. The reason is so the power output for battery #2 will also be on the bottom and directed toward the center of the tablet. Press the second battery onto the Velcro hooks on the right side of the KS257 aluminum sheet as shown below.
+
+![Attach battery #2](/assets/projects/rugged/velcro-battery-2.jpg)
+
+If you don't plan to buld the battery switchbox, then you can route the battery power cables from the batteries to near the power plug on the tablet. Without the switchbox, you'll switch batteries by swapping plugs.
+
+If you put the clamp arm back on at this point then the back of the tablet will look like this. (Note, when this photo was taken the on-air light wasn't installed.)
+
+![Back view of tablet with batteries installed](/assets/projects/rugged/back-view-batteries-installed.jpg)
+
+### Battery Switchbox
+
+to do
