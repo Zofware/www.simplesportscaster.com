@@ -3,14 +3,13 @@ layout: project
 title: Rugged Tablet Project
 subtitle: Build a rugged tablet system for SimpleSportsCaster
 description: Build a rugged tablet system for SimpleSportsCaster
-date: "2020-12-01 00:00:00"
+date: "2020-12-01 12:00:00"
 author: AdamZofware
 version: 1.0.1
 comments: true
 image:
 featured_image:
 excerpt_separator: <!--more-->
-
 ---
 
 [Seattle United FC](https://www.seattleunited.com) asked us to build three SimpleSportsCaster live streaming tablets to go with the [Hi-Pod](https://www.hipod.com) systems they already use to record their [ECNL](https://www.theecnl.com/) games. Beyond needing to work with the Hi-Pod cameras, the main requirement was that the tablets had to be rugged enough to handle frequent use by parent volunteers in rainy Seattle weather.
