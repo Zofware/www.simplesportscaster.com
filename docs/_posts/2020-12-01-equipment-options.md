@@ -6,6 +6,8 @@ date: "2020-12-01 12:00:00 -0700"
 author: AdamZofware
 version: 1.0.0
 comments: true
+image: /assets/posts/surface-pro-3-and-phone.jpg
+featured_image: /assets/posts/surface-pro-3-and-phone.jpg
 excerpt_separator: <!--more-->
 ---
 

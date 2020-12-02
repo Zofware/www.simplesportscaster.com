@@ -7,8 +7,8 @@ date: "2020-12-01 12:00:00"
 author: AdamZofware
 version: 1.0.1
 comments: true
-image:
-featured_image:
+image: /assets/projects/rugged/completed-project-1.jpg
+featured_image: /assets/projects/rugged/completed-project-1.jpg
 excerpt_separator: <!--more-->
 ---
 
