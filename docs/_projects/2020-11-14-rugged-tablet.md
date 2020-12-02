@@ -3,9 +3,9 @@ layout: project
 title: Rugged Tablet Project
 subtitle: Build a rugged tablet system for SimpleSportsCaster
 description: Build a rugged tablet system for SimpleSportsCaster
-date: "2020-11-14 00:00:00"
+date: "2020-12-01 00:00:00"
 author: AdamZofware
-version: 1.0.0
+version: 1.0.1
 comments: true
 image:
 featured_image:
@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 [Seattle United FC](https://www.seattleunited.com) asked us to build three SimpleSportsCaster live streaming tablets to go with the [Hi-Pod](https://www.hipod.com) systems they already use to record their [ECNL](https://www.theecnl.com/) games. Beyond needing to work with the Hi-Pod cameras, the main requirement was that the tablets had to be rugged enough to handle frequent use by parent volunteers in rainy Seattle weather.
 
-After some discussion with the club, we decided build around the [Dell Rugged Extreme Tablet](https://www.dell.com/en-us/work/shop/laptops/12-7220-rugged-extreme/spd/latitude-12-7220-tablet) because of its durability and weather resistance. We attached the tablet and all the accessories to the [PadHoldr Iron L7202](https://padholder.com/products/rugged-12-mount) mounting plate and then the entire system clamps onto the Hi-Pod pole using parts from [Ram Mounts](https://www.rammount.com) and [Manfrotto](https://www.manfrotto.com).
+After some discussion with the club, we decided to build around the [Dell Rugged Extreme Tablet](https://www.dell.com/en-us/work/shop/laptops/12-7220-rugged-extreme/spd/latitude-12-7220-tablet) because of its durability and weather resistance. We attached the tablet and all the accessories to the [PadHoldr Iron L7202](https://padholder.com/products/rugged-12-mount) mounting plate and then clamped the entire system onto the Hi-Pod pole using parts from [Ram Mounts](https://www.rammount.com) and [Manfrotto](https://www.manfrotto.com).
 
 The end result was a durable, one-piece unit that quickly attaches to the Hi-Pod and gets the club live and on-the-air with minimal fuss.
 
@@ -83,7 +83,7 @@ One requirement we wanted to satisfy was the ability to broadcast and record two
 
 ### On-Air Light Parts
 
-Adding an on-air light is a friendly way to remind people nearby that their voices might be heard on your live stream. SimpleSportsCaster can also flash the light as a low battery warning to the camera operator. We plug the light into a USB gooseneck extension to lift it above the tablet high enough to be visible from all sides. We also add a USB/network/HDMI hub as a convenience since the tablet has limited number of ports.
+Adding an on-air light is a friendly way to remind people nearby that their voices might be heard on your live stream. SimpleSportsCaster can also flash the light as a low battery warning to the camera operator. We plug the light into a USB gooseneck extension to lift it above the tablet high enough to be visible from all sides. We also add a USB/network/HDMI hub as a convenience since the tablet has a limited number of ports.
 
 | Manufacturer    | Part                                                                                                                          | Quantity | Unit Cost | Total Cost | Description                                                            |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ---------------------------------------------------------------------- |
@@ -109,7 +109,7 @@ To simplify switching between the two external batteries, we built a little swit
 
 ### Microphone for Sony HDR-CX405 Camcorder
 
-Many Hi-Pods come with the Sony HDR-CX405 camcorder. One quirk of this camcorder is that it doesn't send any audio via HDMI when recording. It only sends audio via HDMI in playback mode. Unfortunately, this means you have to provide your own microphone if you want to have game audio in your live streams. If your camera provides live audio then you don't need to purchase these parts.
+Many Hi-Pods come with the Sony HDR-CX405 camcorder. One quirk of this camcorder is that it doesn't send any microphone audio out via HDMI. Unfortunately, this means you have to provide your own microphone if you want to have game audio in your live streams and recordings. If your camera provides live audio then you don't need to purchase these parts.
 
 | Manufacturer  | Part                                                                                                                                        | Quantity | Unit Cost | Total Cost | Description                                                                  |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------- | ---------- | ---------------------------------------------------------------------------- |
@@ -231,7 +231,7 @@ If you put the clamp arm back on at this point then the back of the tablet will 
 
 ### Battery Switchbox
 
-The battery switchbox makes it easy to toggle between the two external Dell batteries without having to move power plugs around. The switchbox also has a third (middle) position that makes it possible to charge both external batteries and the tablets internal batteries with just one power supply.
+The battery switchbox makes it easy to toggle between the two external Dell batteries without having to move power plugs around. The switchbox also has a third (middle) position that makes it possible to charge both external batteries and the tablet's internal batteries with just one power supply.
 
 Start with the 1591MSBK plastic box and cut holes in the lid so you can mount the switch as far to one end of the box as possible. We used black nylon nuts and bolts to secure the switch to the lid.
 
