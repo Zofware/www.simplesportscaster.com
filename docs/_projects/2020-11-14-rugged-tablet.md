@@ -7,8 +7,8 @@ date: "2020-12-01 12:00:00"
 author: AdamZofware
 version: 1.0.1
 comments: true
-image: /assets/projects/rugged/completed-project-1.jpg
-featured_image: /assets/projects/rugged/completed-project-1.jpg
+image: /assets/projects/rugged/completed-project-5.jpg
+featured_image: /assets/projects/rugged/completed-project-5.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -18,9 +18,9 @@ After some discussion with the club, we decided to build around the [Dell Rugged
 
 The end result was a durable, one-piece unit that quickly attaches to the Hi-Pod and gets the club live and on-the-air with minimal fuss.
 
-![Completed Project 1](/assets/projects/rugged/completed-project-1.jpg)
-
 <!--more-->
+
+{% include image.html url="/assets/projects/rugged/completed-project-1.jpg" description="Completed rugged tablet project" %}
 
 Each system we built for Seattle United included the tablet, mount and video connections, an on-air light, and external batteries with a custom switchbox to toggle between them. You may choose to mix and match the system components differently depending on your needs so we've split the system design into several sections, some of which are optional.
 
@@ -132,7 +132,7 @@ Many Hi-Pods come with the Sony HDR-CX405 camcorder. One quirk of this camcorder
 
 If you choose to add the Dell [external batteries](#external-battery-parts) to your system, use the RAM 2461U VESA plate as a template to drill four holes through the KS257 aluminum plate as shown here:
 
-![Battery Plate Holes](/assets/projects/rugged/battery-plate-holes.jpg)
+{% include image.html url="/assets/projects/rugged/battery-plate-holes.jpg" description="Battery mounting plate holes" %}
 
 Use a metal file to smooth the sharp edges of the aluminum sheet and round the corners to make them safer to touch.
 
@@ -140,9 +140,9 @@ Sandwich the battery mounting plate between the PadHolder Iron L7202 and the RAM
 
 See the two images below for reference. Also note the location of the adhesive Velcro hook strips. Some of the Velcro is optional depending upon whether or not you plan to install the on-air light with Anker USB hub or the battery switchbox.
 
-![Battery Plate Ball Side](/assets/projects/rugged/battery-plate-ball-side.jpg)
+{% include image.html url="/assets/projects/rugged/battery-plate-ball-side.jpg" description="Battery mounting plate (ball side)" %}
 
-![Battery Plate Tablet Side](/assets/projects/rugged/battery-plate-tablet-side.jpg)
+{% include image.html url="/assets/projects/rugged/battery-plate-tablet-side.jpg" description="Battery mounting plate (tablet side)" %}
 
 ### Clamp Arm
 
@@ -152,31 +152,31 @@ You may want to apply some thread lock glue on the Manfrotto 2907 short stud whe
 
 If you chose to build the battery mounting plate then you will have already joined the RAM 2461U to the PadHoldr Iron L7202 with the battery plate sandwiched in between.
 
-![Clamp Arm](/assets/projects/rugged/clamp-arm.jpg)
+{% include image.html url="/assets/projects/rugged/clamp-arm.jpg" description="Assmbled clamp arm" %}
 
 If you haven't already done so, unscrew and separate the two halves of the PadHoldr Iron L7202. Place a strip of Velcro hooks on the inside of the half of the L7202 that is bolted to the RAM 2461U VESA plate. This Velcro strip will hold the Elgato HD60 S+ video capture device. This image shows where to place the Velcro.
 
-![Velcro hooks for Elgato HD60 S+](/assets/projects/rugged/video-capture-velcro-hooks.jpg)
+{% include image.html url="/assets/projects/rugged/video-capture-velcro-hooks.jpg" description="Velcro hooks for Elgato HD60 S+" %}
 
 ### Tablet Mount
 
 If you haven't already done so, unscrew and separate the two halves of the PadHoldr Iron L7202. Attach the tablet bracket of the L7202 to the back of the Dell tablet using the included screws.
 
-![Tablet Bracket](/assets/projects/rugged/tablet-bracket.jpg)
+{% include image.html url="/assets/projects/rugged/tablet-bracket.jpg" description="PadHoldr Iron L7202 tablet bracket installed" %}
 
 ### Video Capture and On-Air Light
 
 Attach a length of Velcro strip (loop side) to the back of the Elgato HD60 S+ video capture device. Then press it onto the Velcro hooks that you already attached to the inside of the PadHoldr Iron L7202 as shown below.
 
-![Velcro loops for Elgato HD60 S+](/assets/projects/rugged/video-capture-velcro-loops.jpg)
+{% include image.html url="/assets/projects/rugged/video-capture-velcro-loops.jpg" description="Velcro loops for Elgato HD60 S+" %}
 
 If you are building the on-air light option, plug the blink(1) LED light into one end of the USB gooseneck and the right angle USB adapter into the other end as shown below.
 
-![On-air light and gooseneck](/assets/projects/rugged/on-air-light-gooseneck.jpg)
+{% include image.html url="/assets/projects/rugged/on-air-light-gooseneck.jpg" description="On-air light and gooseneck" %}
 
 Attach a thin strip of Velcro loops on the back of the Anker USB hub. Plug the open end of the right angle adapter into the USB hub. Finally, attach the USB hub to the KS257 aluminum sheet by pressing the Velcro together as shown below.
 
-![Velcro for USB hub and on-air light](/assets/projects/rugged/on-air-light-velcro.jpg)
+{% include image.html url="/assets/projects/rugged/on-air-light-velcro.jpg" description="Velcro for USB hub and on-air light" %}
 
 ### Video and USB Cabling
 
@@ -186,29 +186,29 @@ Next, add the two USB extension cables from UsbFireWire.com. Plug the USB-C end 
 
 Note: The image below includes a stereo microphone cable. This was necessary in the case of the Seattle United build because the Sony HDR-CX405 Hi-Pod cameras don't send audio via HDMI. This was solved by mounting a small lapel microphone next to the camera and running a long microphone lead down to the bottom of the Hi-Pod pole. That lead was then plugged into a 3 foot audio extension cable, one end of which is pictured below and is plugged into the microphone input on the Dell Rugged Extreme Tablet. Most cameras send both audio and video via HDMI so the extra microphone isn't usually necessary.
 
-![Video and USB cabling](/assets/projects/rugged/video-and-usb-cabling.jpg)
+{% include image.html url="/assets/projects/rugged/video-and-usb-cabling.jpg" description="Video and USB cabling" %}
 
 To make things easier for your film crew, it's nice to label the video cables. Note: If you added an external microphone for your Sony HDR-CX405 Hi-Pod camera then it's nice to label that too.
 
-![Cable labels](/assets/projects/rugged/cable-labels.jpg)
+{% include image.html url="/assets/projects/rugged/cable-labels.jpg" description="Cable labels" %}
 
 ### Attach Tablet to Mount
 
 With all the video and data connections in place, you can now join the two halves of the PadHoldr Iron L7202 back together again. Lay the tablet face down and slide the slots on the other half of the L7202 onto the hooks on the tablet bracket as shown below.
 
-![Attach tablet to mount step 1](/assets/projects/rugged/attach-tablet-to-mount-1.jpg)
+{% include image.html url="/assets/projects/rugged/attach-tablet-to-mount-1.jpg" description="Fitting the two halves of the PadHoldr Iron L7202 back together" %}
 
 Use a long Allen wrench to screw in the bolt that locks the two halves of the PadHoldr Iron L7202 together.
 
-![Attach tablet to mount step 2](/assets/projects/rugged/attach-tablet-to-mount-2.jpg)
+{% include image.html url="/assets/projects/rugged/attach-tablet-to-mount-2.jpg" description="Reinstalling the locking bolt" %}
 
 This image shows the locking bolt in position after being tightened.
 
-![Attach tablet to mount step 3](/assets/projects/rugged/attach-tablet-to-mount-3.jpg)
+{% include image.html url="/assets/projects/rugged/attach-tablet-to-mount-3.jpg" description="Close-up of locking bolt after tightening" %}
 
 Open the data port door on the side of the tablet and plug in the USB cables and, if used, the microphone cable as shown below.
 
-![Plug in cables](/assets/projects/rugged/plug-in-usb-and-mic-cables.jpg)
+{% include image.html url="/assets/projects/rugged/plug-in-usb-and-mic-cables.jpg" description="Plugging the cables into the side of the tablet" %}
 
 ### Attach Batteries
 
@@ -216,17 +216,17 @@ If you chose to use the external Dell batteries then you can attach them now. St
 
 Attach a strip of Velcro loops over the regulatory label of the first battery. Then flip it over and orient it so that the power plug is facing down and the power cable is directed toward the center of the tablet. Press it onto the Velcro hooks on the left side of the KS257 aluminum sheet as shown below.
 
-![Attach battery #1](/assets/projects/rugged/velcro-battery-1.jpg)
+{% include image.html url="/assets/projects/rugged/velcro-battery-1.jpg" description="Attaching battery #1" %}
 
 Attach a strip of Velcro loops over the Dell logo on the second battery. Note that the Velcro for battery #2 goes on the opposite side that you used for battery #1. The reason is so the power output for battery #2 will also be on the bottom and directed toward the center of the tablet. Press the second battery onto the Velcro hooks on the right side of the KS257 aluminum sheet as shown below.
 
-![Attach battery #2](/assets/projects/rugged/velcro-battery-2.jpg)
+{% include image.html url="/assets/projects/rugged/velcro-battery-2.jpg" description="Attaching battery #2" %}
 
 If you don't plan to buld the battery switchbox, then you can route the battery power cables from the batteries to near the power plug on the tablet. Without the switchbox, you'll switch batteries by swapping plugs.
 
 If you put the clamp arm back on at this point then the back of the tablet will look like this. (Note, when this photo was taken the on-air light wasn't installed.)
 
-![Back view of tablet with batteries installed](/assets/projects/rugged/back-view-batteries-installed.jpg)
+{% include image.html url="/assets/projects/rugged/back-view-batteries-installed.jpg" description="Back view of tablet with batteries installed (on-air light not installed in this photo)" %}
 
 ### Battery Switchbox
 
@@ -234,43 +234,43 @@ The battery switchbox makes it easy to toggle between the two external Dell batt
 
 Start with the 1591MSBK plastic box and cut holes in the lid so you can mount the switch as far to one end of the box as possible. We used black nylon nuts and bolts to secure the switch to the lid.
 
-![Switch mounted on switchbox lid](/assets/projects/rugged/switchbox-lid.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-lid.jpg" description="Switch mounted on switchbox lid" %}
 
 Next, grab two of the Njuone Dell-compatible power cables and cut the male end off and strip the three wires inside the cable. Like this:
 
-![Female battery cable](/assets/projects/rugged/female-battery-cable.jpg)
+{% include image.html url="/assets/projects/rugged/female-battery-cable.jpg" description="Female battery cable" %}
 
 Cut the female end off two more Dell power cables and strip those wires too.
 
-![Male battery cable](/assets/projects/rugged/male-battery-cable.jpg)
+{% include image.html url="/assets/projects/rugged/male-battery-cable.jpg" description="Male battery cable" %}
 
 Drill 2 holes on each side of the 1591MSBK plastic box to allow you to insert the stripped ends of the power cables. Then solder the wires to the switch leads as shown below.
 
-![Switchbox wiring](/assets/projects/rugged/switchbox-wiring.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-wiring.jpg" description="Switchbox wiring" %}
 
 Here are a couple views of the switchbox with the wiring complete and the cover open.
 
-![Switchbox internals 1](/assets/projects/rugged/switchbox-internals-1.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-internals-1.jpg" description="Close-up of switch wiring" %}
 
-![Switchbox internals 2](/assets/projects/rugged/switchbox-internals-2.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-internals-2.jpg" description="Closing the switchbox lid" %}
 
 If you have a label printer, you can print these labels for the outside of the box.
 
-![Switchbox labels](/assets/projects/rugged/switchbox-labels.png)
+{% include image.html url="/assets/projects/rugged/switchbox-labels.png" description="Switchbox labels" %}
 
 Cut a piece of Velcro loops to put on the outside of the box lid above the switch. Here is a view showing where to put the Velcro on the lid. It also shows the label for the switch.
 
-![Switchbox exterior 1](/assets/projects/rugged/switchbox-exterior-1.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-exterior-1.jpg" description="Switchbox exterior (front)" %}
 
 The following two views show where to place the labels on the sides of the box.
 
-![Switchbox exterior 2](/assets/projects/rugged/switchbox-exterior-2.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-exterior-2.jpg" description="Switchbox exterior (right side)" %}
 
-![Switchbox exterior 3](/assets/projects/rugged/switchbox-exterior-3.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-exterior-3.jpg" description="Switchbox exterior (left side)" %}
 
 Slide the switchbox between the tablet and the battery mounting plate near the tablet's power jack as shown below. Press the Velcro together to hold it in place.
 
-![Switchbox installed](/assets/projects/rugged/switchbox-installed.jpg)
+{% include image.html url="/assets/projects/rugged/switchbox-installed.jpg" description="Switchbox installed" %}
 
 The rightmost three labels on the label strip above are for the batteries. In the image above you can see the label for battery #1. Put the label for battery #2 on the other battery. 
 
@@ -281,13 +281,13 @@ When you want to charge both external batteries and the tablet's internal batter
 
 Here are a few views of the completed tablet project.
 
-![Completed project 5](/assets/projects/rugged/completed-project-5.jpg)
+{% include image.html url="/assets/projects/rugged/completed-project-5.jpg" description="Completed rugged tablet in operation" %}
 
-![Completed project 3](/assets/projects/rugged/completed-project-3.jpg)
+{% include image.html url="/assets/projects/rugged/completed-project-3.jpg" description="Close-up of completed rugged tablet in operation" %}
 
-![Completed project 2](/assets/projects/rugged/completed-project-2.jpg)
+{% include image.html url="/assets/projects/rugged/completed-project-2.jpg" description="Back view of completed rugged tablet clamped onto Hi-Pod pole" %}
 
-<!--![Completed project 4](/assets/projects/rugged/completed-project-4.jpg)-->
+<!--{% include image.html url="/assets/projects/rugged/completed-project-4.jpg" description="Completed project 4" %}-->
 
 These tablets have been great for Seattle United, especially during 2020 when games have been extremely limited due to COVID restrictions. Having video of intra-team scrimmages has been crucial for athletes in the club hoping to play in college. Since spectators haven't been allowed at most of these scrimmages, parents have enjoyed being able to watch the live streams broadcast from the club tablets.
 

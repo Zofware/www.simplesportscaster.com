@@ -30,4 +30,3 @@ Maybe you already have a camcorder or other camera that can output video over HD
 If you want to go all out and build a no-compromises rugged, customized tablet that can do it all and run for hours and hours, then [check out this system](/project/rugged-tablet) we built for [Seattle United FC](https://www.seattleunited.com). It makes the perfect companion for the club's Hi-Pod camera systems and adds a scoreboard and game clock to their game film while letting the families and fans watch live via YouTube. Check out [Seattle United on YouTube](http://video.seattleunited.soccer) for some of the club's recent broadcasts.
 
 {% include image.html url="/assets/projects/rugged/completed-project-5.jpg" description="Rugged tablet on Hi-Pod" %}
-
