@@ -69,13 +69,9 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
     <img src="{{site.url}}/assets/screens/Final1.png">
 </div>
 
-## Beta Testing
+## Pricing
 
-SimpleSportsCaster is currently in beta testing. Everyone is encouraged to test the app, report bugs and make feature requests on the [contact page](/contact).  
-
-The free version of SimpleSportsCaster puts a watermark over the upper-right corner of your video. While SimpleSportsCaster is in public beta testing, you can remove the watermark for free by clicking the "Buy Now" button at the bottom of the screen and signing into the Microsoft Store to unlock the full version. The unlock will last for 30 days at which point you'll have to unlock again.
-
-In the future, SimpleSportsCaster will use a subscription model to unlock the full version. Pricing to be determined.
+Starting in February 2021, we'll be introducing a number of subscription options for SimpleSportsCaster. There will be two subscription levels, Basic and Deluxe, available for purchase. See [this page](/help/pricing) for more information.
 
 ## Version History
 
