@@ -1,7 +1,7 @@
 ---
 layout: help
 title: Elgato Firmware Update
-description: "Update the firmware for the Elgato CamLink and HD60 S+"
+description: "Update the firmware for the Elgato CamLink 4K and HD60 S+"
 # subtitle: 
 featured_image: /images/social.jpg
 permalink: /help/elgato-firmware
