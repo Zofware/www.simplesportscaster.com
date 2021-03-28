@@ -34,7 +34,7 @@ Please leave a comment at the bottom of this page if you know of other devices t
 | [<img border="0" height="128" class="center" src="/assets/help/hd60splus.png"/><br/>Elgato HD60 S+](https://www.elgato.com/gaming/game-capture-hd60-s-plus) | yes | Up to 2160p30 or 1080p60 with HDMI passthrough. See [additional notes](#elgato-camlink-4k-and-hd60-s). |
 | [<img border="0" height="128" class="center" src="/assets/help/MiraBox-HSV321.png"/><br/>MiraBox HSV321](https://amzn.to/2ZmYvma) | yes | Up to 1080p60. |
 | [<img border="0" height="128" class="center" src="/assets/help/MiraBox-HSV323.png"/><br/>MiraBox HSV323](https://amzn.to/2HkKTOj) | yes | Up to 2160p30 or 1080p60. Also rebranded by [ShuOne](https://amzn.to/2HjFSW2). See [additional notes](#shuone-hsv323). |
-| [<img border="0" height="128" class="center" src="/assets/help/rynx-video-capture.png"/><br/>RYNX HDMI Video Capture](https://www.amazon.com/gp/product/B08Q77YQ9D) | yes | Limited to 1080p30. (30 frames per second max.) USB 2. Only $20! |
+| [<img border="0" height="128" class="center" src="/assets/help/rynx-video-capture.png"/><br/>RYNX HDMI Video Capture](https://www.amazon.com/gp/product/B08Q77YQ9D) | yes | Limited to 1080p30. (30 frames per second max.) USB 2. Only $20! [Review](https://www.theverge.com/21346571/cheap-cam-link-capture-card-streamer-clone-review-test-price)|
 
 ## Additional Notes
 
