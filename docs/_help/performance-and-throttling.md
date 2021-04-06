@@ -37,7 +37,7 @@ The best way to avoid throttling is to keep your computer cool. Avoid exposing i
     <figcaption>Versa-Brella by Sport-Brella</figcaption>
 </figure>
 
-On really hot days an umbrella might not be enough. Sometimes a small fan can make all the difference. The [ARCTIC Breeze Mobile USB fan](https://www.amazon.com/gp/product/B003XN24GY) is great for this. Its powered via USB and has a flexible neck that lets you aim the fan at the hottest part of your tablet.
+On really hot days an umbrella might not be enough. Sometimes a small fan can make all the difference. The [ARCTIC Breeze Mobile USB fan](https://www.amazon.com/gp/product/B003XN24GY) is great for this. It's powered via USB and has a flexible neck that lets you aim the fan at the hottest part of your tablet.
 
 <figure class="image">
     <a href="https://www.amazon.com/gp/product/B003XN24GY/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=zofwarellc-20&linkId=8a623e05ff3a5f99cea26a4b39edab59&language=en_US" target="_blank">
