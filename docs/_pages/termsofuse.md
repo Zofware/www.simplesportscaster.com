@@ -1,7 +1,7 @@
 ---
 title: Zofware LLC Terms of Use
 description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
-subtitle: Last Updated December 9, 2020
+subtitle: Last Updated April 6, 2021
 featured_image: /images/social.jpg
 ---
 
@@ -40,7 +40,7 @@ As between you and us, we own all rights in and to the Zofware Services. We gran
 <ol type="A">
 <li>We created SimpleSportsCaster to give our users a way to non-commercially share and livestream non-professional soccer or lacrosse games via third-party products and services so that friends and family who couldn't attend the game can still follow the game in real-time or later on their own schedule. Users who play or coach non-professional soccer or lacrosse can also later review recorded footage to find ways to improve their team's skills and tactics. Please respect the original purpose behind SimpleSportsCaster and only use the application for these purposes.</li>
 
-<li>While using the Zofware Services, you must comply with all applicable rules, laws, and regulations including, without limitation: (i) YouTube's Terms of Service (found at <a href="https://www.youtube.com/static?template=terms">https://www.youtube.com/static?template=terms</a>), Community Guidelines (found at <a href="https://www.youtube.com/yt/about/policies/#community-guidelines">https://www.youtube.com/yt/about/policies/#community-guidelines</a>), and all other terms, policies, requirements, and guidelines that apply to your use of the YouTube platform; (ii) TeamSnap's Terms of Service (found at <a href="https://teamsnap.com/terms">https://teamsnap.com/terms</a>); (iii) Children's Online Privacy Protection Act (COPPA); (iv) and all other terms, policies, requirements, and guidelines that apply to your use of TeamSnap's services and platforms.</li>
+<li>While using the Zofware Services, you must comply with all applicable rules, laws, and regulations including, without limitation: (i) YouTube's Terms of Service (found at <a href="https://www.youtube.com/t/terms">https://www.youtube.com/t/terms</a>), Community Guidelines (found at <a href="https://www.youtube.com/yt/about/policies/#community-guidelines">https://www.youtube.com/yt/about/policies/#community-guidelines</a>), and all other terms, policies, requirements, and guidelines that apply to your use of the YouTube platform; (ii) TeamSnap's Terms of Service (found at <a href="https://teamsnap.com/terms">https://teamsnap.com/terms</a>); (iii) Children's Online Privacy Protection Act (COPPA); (iv) and all other terms, policies, requirements, and guidelines that apply to your use of TeamSnap's services and platforms.</li>
 
 <li>You must obtain all necessary rights and permissions before using the Zofware Services to record and livestream games. This means, for example, respecting people's right to privacy and getting permission before recording other individuals. This also means getting any necessary clearances and permissions from the venue at which the game is held and from event organizers. You are fully responsible for obtaining any and all necessary third-party rights, permissions, and clearances when using the Zofware Services to record and livestream games.</li>
 
