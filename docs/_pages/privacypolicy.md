@@ -1,7 +1,7 @@
 ---
 title: Zofware LLC Privacy Policy
 description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
-subtitle: Last Updated May 21, 2019
+subtitle: Last Updated April 6, 2021
 featured_image: /images/social.jpg
 ---
 
@@ -23,7 +23,7 @@ There are a few areas throughout the Zofware Services where you have the option 
 
 #### B. Information we receive from third parties.
 
-The Zofware Services are integrated with the YouTube platform to allow our users to connect their YouTube accounts directly to SimpleSportsCaster and then livestream non-professional soccer games on their YouTube channels. If you decide to link your YouTube account to SimpleSportsCaster, you will need to sign in to the Google account associated with your YouTube account and we will receive the following information from your YouTube profile: your account name, first and last name, language preferences, and your profile picture if you have one ("**YouTube Data**"). After you log into your Google account for the first time, we will then collect and store a refresh token on your device to keep you automatically logged into your YouTube account.
+The Zofware Services use [YouTube API Services](https://developers.google.com/youtube/terms/developer-policies#definition-youtube-api-services) to allow our users to connect their YouTube accounts directly to SimpleSportsCaster and then livestream non-professional soccer games on their YouTube channels. If you decide to link your YouTube account to SimpleSportsCaster, you will need to sign in to the Google account associated with your YouTube account and we will receive the following information from your YouTube profile: your account name, first and last name, language preferences, and your profile picture if you have one ("**YouTube Data**"). After you log into your Google account for the first time, we will then collect and store a refresh token on your device to keep you automatically logged into your YouTube account. Please refer to the [YouTube Privacy Policy](http://www.google.com/policies/privacy) for more information.
 
 If you do not want us to receive YouTube Data, you may still livestream a game on your YouTube channel by manually entering in your YouTube URL in the SimpleSportsCaster settings page. For more information on how to use SimpleSportsCaster to livestream a game through your YouTube channel, please review the instructions on the Website.
 
@@ -41,7 +41,7 @@ We use your information to operate, maintain, and improve the Zofware Services. 
 
 We will only share your information in the following ways:
 
-#### A. With third-party service providers. 
+#### A. With third-party service providers.
 
 Like many businesses, we use tools and services from third-party service providers to help us with different parts of our business, and depending on the service we need, these service providers may have access to your information. For example, we use tools from a service provider to help us conduct analytics and diagnostics as described in Section 2 above. We contractually require all service providers to use your information only for the services we need.
 
@@ -79,10 +79,9 @@ Some parts of the Zofware Services allow you to connect to third-party social ne
 
 By way of example, the Website uses plugins provided by Disqus Inc. to allow users to log into their Disqus account and post public comments to blog articles on the Website. All comments posted under your Disqus account, and all other information associated with your Disqus account, are stored on Disqus' servers, and we do not have any control over such information. For information about Disqus' data collection practices, please review their privacy policy: [https://help.disqus.com/terms-and-policies/disqus-privacy-policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy). 
 
-
 ### 7. YOUR CONTROL OVER YOUR INFORMATION.
 
-If you linked your YouTube account with SimpleSportsCaster as described in Section 1, you are free to remove your YouTube account at any time by going to the SimpleSportsCaster settings and we will delete your YouTube Data.  To delete or update any information that you directly gave to us under Section 1(A), please contact us at <privacy@simplesportscaster.com>. 
+If you linked your YouTube account with SimpleSportsCaster as described in Section 1, you are free to remove your YouTube account at any time by using the SimpleSportsCaster settings to remove your account and we will delete your YouTube Data. You may also revoke SimpleSportsCaster's access to your data via the [Google security settings](https://security.google.com/settings/security/permissions) page. To delete or update any information that you directly gave to us under Section 1(A), please contact us at <privacy@simplesportscaster.com>. 
 
 ### 8. CHILDREN. 
 
