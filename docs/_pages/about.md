@@ -15,7 +15,11 @@ With SimpleSportsCaster you can live stream and record your team's games with a 
 -->
 
 <!-- non-looping, non-autoplay -->
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hQVCQU7D-KM?rel=0&controls=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQVCQU7D-KM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Features:
 * Customize the scoreboard with team colors and logos.
