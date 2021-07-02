@@ -21,3 +21,4 @@ The Elgato CamLink 4K needs the latest firmware to work reliably. Otherwise it i
 6. If your firmware is less than "MCU: 20.02.19 / FPGA: 67" then you should upgrade. Click the Update Firmware button and follow the instructions.
 7. Sometimes the update process ends with an error message saying the update failed. If that happens, follow the instructions to unplug the CamLink and plug it back in. Then run the update process again and it usually works the second time through.  
   ![](/assets/help/elgato-firmware-3.png)
+8. look at test ![](/assets/help/test.jpg)
