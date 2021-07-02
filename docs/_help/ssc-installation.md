@@ -12,10 +12,10 @@ comments: true
 
 ### Pre-Installation Instructions
 
-1. In order to use SimpleSportsCaster you will need the following hardware:<br>
-&nbsp;&nbsp;- Camcorder  
-&nbsp;&nbsp;- Windows Laptop/Tablet  
-&nbsp;&nbsp;- Video Capture Card  
+1. In order to use SimpleSportsCaster you will need the following hardware:
+    * Camcorder
+    * Windows Laptop/Tablet
+    * Video Capture Card
 2. Review the “System Requirements” tab within the Microsoft Store’s SimpleSportsCaster page [here](https://www.microsoft.com/store/productId/9NRQMTPGS298) to ensure that your hardware and operating system meet the minimum requirements for this application.  
 3. For recommendation on support tablets and computers visit the SimpleSportsCaster website [here](https://www.simplesportscaster.com/help/machines)
 4. Ensure that you have a supported video capture device.  More information can be found [here](https://www.simplesportscaster.com/help/capture-devices)
