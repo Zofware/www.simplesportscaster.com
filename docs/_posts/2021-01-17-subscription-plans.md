@@ -4,13 +4,14 @@ title: "SimpleSportsCaster Subscription Plans"
 description: ""
 date: "2021-01-17 12:00:00 -0700"
 author: AdamZofware
-version: 1.0.1
+version: 1.0.2
 comments: true
-permalink: /help/pricing
 #image: /assets/posts/subscription-dialog.png
 #featured_image: /assets/posts/subscription-dialog.png
 excerpt_separator: <!--more-->
 ---
+
+[Note: SimpleSportsCaster has phased out subscriptions in favor of one-time purchases. [Please refer to the new pricing page](/help/pricing).]
 
 Starting in February 2021, we introduced a number of subscription options for SimpleSportsCaster. There are two subscription levels, Basic and Deluxe, available for purchase.
 
