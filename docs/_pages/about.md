@@ -75,7 +75,7 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 
 ## Pricing
 
-Starting in February 2021, we introduced a number of subscription options for SimpleSportsCaster. There are two subscription levels, Basic and Deluxe, available for purchase. See [this page](/help/pricing) for more information.
+There are two license levels, Basic and Deluxe, available for purchase. See [this page](/help/pricing) for more information.
 
 ## Version History
 
