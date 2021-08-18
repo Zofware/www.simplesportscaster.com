@@ -75,7 +75,7 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 
 ## Pricing
 
-There are two license levels, Basic and Deluxe, available for purchase. See [this page](/help/pricing) for more information.
+The free trial of SimpleSportsCaster lets you try many of the features but limits you to 5 minutes of streaming or recording video. To remove the time limits and to unlock other premium features, there are two license levels available for purchase, Basic and Deluxe. See [this page](/help/pricing) for more information.
 
 ## Version History
 
