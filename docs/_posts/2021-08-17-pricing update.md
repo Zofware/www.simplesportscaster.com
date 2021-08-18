@@ -4,11 +4,9 @@ title: "SimpleSportsCaster Pricing Update"
 description: ""
 date: "2021-08-17 12:00:00 -0700"
 author: AdamZofware
-version: 1.0.0
+version: 1.0.1
 comments: true
 permalink: /help/pricing
-#image: /assets/posts/subscription-dialog.png
-#featured_image: /assets/posts/subscription-dialog.png
 excerpt_separator: <!--more-->
 ---
 
