@@ -23,6 +23,9 @@ collections:
   releases:
     output: true
     permalink: /releases/:slug
+  redirects:
+    output: true
+    permalink: /redirects/:slug
 
 defaults:
   -
