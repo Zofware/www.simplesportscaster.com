@@ -3,7 +3,7 @@ layout: help
 title: 2022 ODP Far West Championships Video 
 description: ""
 # subtitle: 
-featured_image: /images/social.jpg
+featured_image: /assets/logos/odpw22.png
 permalink: /odpw22
 comments: false
 ---
