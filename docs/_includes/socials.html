@@ -2,13 +2,13 @@
     {% for url in site.data.settings.social_settings %}
     {% if url[1] != '' %}
         <li class="socials__item">
-            <a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | remove: 'fas_' | remove: 'fab_' | replace: '-', ' ' | capitalize }}">
-                {% if url[0] contains "microsoft" %}
+            <a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | remove: 'fas_' | remove: 'fab_' | replace: '-', ' ' }}">
+                {% if url[0] contains "Microsoft" %}
                     <img src='https://get.microsoft.com/images/English_S.png' alt='Get' />
                 {% elsif url[0] contains "fas_" %}
-                    <i class="fas fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: 'fas_' | remove: '_url' }}" aria-hidden="true"></i>
+                    <i class="fas fa-{{ url[0] | replace: 'Facebook', 'facebook-f' | remove: 'fas_' | remove: '_url' | downcase }}" aria-hidden="true"></i>
                 {% else %}
-                    <i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: 'fab_' | remove: '_url' }}" aria-hidden="true"></i>
+                    <i class="fab fa-{{ url[0] | replace: 'Facebook', 'facebook-f' | remove: 'fab_' | remove: '_url' | downcase }}" aria-hidden="true"></i>
                 {% endif %}
             </a>
         </li>
