@@ -33,34 +33,17 @@ SimpleSportsCaster runs on [Microsoft Surface Pro](https://www.microsoft.com/en-
 
 <br/>
 
-<!-- Large badge -->
-<!--
-<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Get it from Microsoft' style='width: 284px; height: 104px;'/></a>
--->
-
-<!-- Small badge -->
-<!--
-<a href='https://www.microsoft.com/store/apps/9NRQMTPGS298?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get_L.png' alt='Get' style='width: 127px; height: 52px;'/></a>
--->
-
-<!-- normal banner -->
-<div align="center" id="mspb-13l7a8y9mrnt" class="9NRQMTPGS298"></div>
-<script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
-<script>
-  mspb('9NRQMTPGS298', function(badge) {
-    document.getElementById('mspb-13l7a8y9mrnt').innerHTML = badge;
-  });
-</script>
-<!-- large banner -->
-<!--
-<div align="center" id="mspb-fiesvxg2x8f3" class="9NRQMTPGS298"></div>
-<script src="https://storebadge.azureedge.net/src/badge-1.8.4.js"></script>
-<script>
-  mspb({ productId: '9NRQMTPGS298', badgeType: 'large' }, function(badge) {
-    document.getElementById('mspb-fiesvxg2x8f3').innerHTML = badge;
-  });
-</script>
--->
+<!-- From https://apps.microsoft.com/store/app-badge -->
+<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
+<div align="center">
+    <ms-store-badge
+        productid="9NRQMTPGS298"
+        cid="sscdotcom"
+        window-mode="full"
+        theme="dark"
+        animation="on">
+    </ms-store-badge>
+</div>
 
 <div align="center" class="gallery" data-columns="3">
     <img src="{{site.url}}/assets/screens/InGame1.png">

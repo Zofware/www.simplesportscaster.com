@@ -26,18 +26,18 @@
 .socials__item__link {
 	position: relative;
 	display: block;
-	width: 30px;
-	height: 30px;
+	width: 50px;
+	height: 50px;
 	border-radius: 100%;
-	background: $text-light-color;
-	font-size: 17px;
+	background: transparent;
+	font-size: 27px;
 	line-height: 1;
-	color: $background-color;
+	color: $text-light-color;
 
 	@include mq(tabletp) {
-		width: 40px;
-		height: 40px;
-		font-size: 20px;
+		width: 60px;
+		height: 60px;
+		font-size: 30px;
 	}
 
 	svg {
@@ -47,8 +47,29 @@
 		@include translate(-50%,-52%);
 	}
 
-	&:hover {
-		background: $accent-color;
-		color: $background-color;
+	img {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		@include translate(-50%,-52%);
 	}
+
+	//	&:hover {
+	//		background: $accent-color;
+	//		color: $background-color;
+	//	}
 }
+
+.fa-youtube {
+	color: #EA3223;
+}
+
+.fa-twitter {
+	color: #1DA1F2;
+}
+
+.fa-github {
+	color: #171516
+}
+
+// microsoft
