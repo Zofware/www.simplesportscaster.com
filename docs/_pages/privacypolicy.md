@@ -1,7 +1,7 @@
 ---
 title: Zofware LLC Privacy Policy
 description: SimpleSportsCaster - Stream and record your games with a live scoreboard.
-subtitle: Last Updated April 6, 2021
+subtitle: Last Updated November 29, 2022
 featured_image: /images/social.jpg
 ---
 
