@@ -264,7 +264,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (>= 4.1.11)
-  github-pages (>= 226)
+  github-pages (>= 228)
   jekyll-archives
   jekyll-feed
   jekyll-paginate
