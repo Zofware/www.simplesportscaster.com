@@ -27,7 +27,7 @@ menu_settings:
     - title: 'Help'
       url: '/help'
     - title: 'Forum'
-      url: 'https://github.com/Zofware/www.simplesportscaster.com/discussions'
+      url: 'https://github.com/Zofware/SimpleSportsCaster/discussions'
     - title: 'Contact'
       url: '/contact'
 
