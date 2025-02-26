@@ -4,7 +4,7 @@
         <li class="socials__item">
             <a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | remove: 'fas_' | remove: 'fab_' | replace: '-', ' ' }}">
                 {% if url[0] contains "Microsoft" %}
-                    <img src='https://get.microsoft.com/images/English_S.png' alt='Get' />
+                    <img src='/images/English_get.png' alt='Download from the Microsoft Store' />
                 {% elsif url[0] contains "fas_" %}
                     <i class="fas fa-{{ url[0] | replace: 'Facebook', 'facebook-f' | remove: 'fas_' | remove: '_url' | downcase }}" aria-hidden="true"></i>
                 {% else %}
